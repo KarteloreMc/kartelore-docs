@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# BATTLEPASS! 
+# BATTLEPASS ! 
 
 Plugin BattlePass to dodatek do gry Minecraft, który wprowadza mechanikę przypominającą popularne systemy "battle pass" znane z wielu innych gier. W skrócie, jest to system nagród i osiągnięć, który pozwala graczom zdobywać punkty lub poziomy poprzez granie i wykonywanie różnorodnych zadań, co z kolei umożliwia odblokowanie różnych nagród, przedmiotów kosmetycznych, walut w grze itp.
 
