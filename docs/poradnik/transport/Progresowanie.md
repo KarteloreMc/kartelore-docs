@@ -1,5 +1,5 @@
-# Transport
-Na serwerze znajduje się wiele środków transportu. Na tę chwile, dodajemy je kolejno w update'ach serwera i opisujemy w tej kategorii dokumentacji.
+# Progresowanie
+Na serwerze znajduje się wiele różnych rzeczy do robienia na przykład ulepszanie swojej postaci!
 
 Statki dzielą sie na trzy kategorie:
 - Transportowe
