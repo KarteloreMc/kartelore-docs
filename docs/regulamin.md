@@ -92,6 +92,8 @@ sidebar_position: 2
 
 4.15. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
 
+4.15.1. Atakowanie innych graczy bez wypowiedzenia wojny w ramach bycia najemnikiem jest możliwe jedynie za specjalną zgodą administracji.
+
 ### Państwa i miasta:
 5.1. Zakaz "griefowania" z użyciem błędów pluginów.
 

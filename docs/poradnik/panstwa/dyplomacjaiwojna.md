@@ -10,7 +10,6 @@ title: Dyplomacja i Wojny
 - Miasta lub państwa w sojuszu nie mogą sobie wypowiadać wojen.
 - Wypowiedzenie wojny innemu państwu/miastu spoza sojuszu **nie** oznacza wciągnięcia sojuszników do wojny!
 - Użyj **/rozwiazsojusz `nazwa_miasta/nazwa_panstwa`** aby rozwiązać sojusz z danym państwem/miastem.
-	- Po rozwiązaniu sojuszu miasta wchodzą w okres 48-o godzinnego **rozejmu**, podczas którego państwa te nie mogą wypowiedzieć sobie wojny.
 
 :::info Informacja
 Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, wszystkie poprzednie sojusze się usuwają. Kiedy miasto wychodzi z państwa, jego sojusze też zostają usunięte. Kiedy państwo zostanie usunięte, wszystkie sojusze miast się usuwają.
