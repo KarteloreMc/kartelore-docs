@@ -7,5 +7,6 @@ title: Poziom/Profesje
 - Pofesje to specjalizacje w danej dziedzinie odblokowywujące benefity dla niej.
 ### Jak ulepszać Profesje?
 - Profesje ulepsza się wykonując akcje związane z profesją (np:Rolnictwo = Zbieranie Upraw etc...).
- Poziom Ogólny
+
+# Poziom Ogólny
 
