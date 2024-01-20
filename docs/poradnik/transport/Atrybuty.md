@@ -5,7 +5,8 @@ title: Atrybuty
 ## Jak Działają Atrybuty?
 
 ### Jak ulepszać Atrybuty?
-- Po zdobyciu każdego poziomu postaci otrzymujesz 1 punkt do użycia pod komendą /atrybuty. ![Atrybuty](./img/atrybuty.png)
+- Po zdobyciu każdego poziomu postaci otrzymujesz 1 punkt do użycia pod komendą /atrybuty.
+# ![Atrybuty](./img/atrybuty.png)
 ### Co zmieniają Atrybuty?
 Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk które wpływają na twoją rozgrywkę.
 - Łócznictwo
