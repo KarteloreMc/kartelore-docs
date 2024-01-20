@@ -4,8 +4,8 @@ title: Atrybuty
 ---
 ## Jak Działają Atrybuty?
 
-### Jak zdobyć Fregatę?
-- Udaj się na spawna, i udaj się do Inżyniera, tam zdobędziesz **projekt statku**, który pozwala na postawianie statku o ile masz wymagane materiały. **Ten kto postawi statek jest sterującym.** Natomiast kule armatnie są w recepturach.
+### Jak zdobyć Atrybuty?
+- Po zdobyciu każdego poziomu postaci otrzymujesz 1 punkt do użycia pod komendą /atrybuty.
 ### Jak sterować Fregatą?
 Po postawieniu Fregaty otrzymujemy trzy przyciski do ekwipnku. Lewym przyciskiem zmieniamy kierunki/specjalności/przyśpieszenia, a prawym przyciskiem je aktywujemy.
 - Specjalny kontroler fregaty
