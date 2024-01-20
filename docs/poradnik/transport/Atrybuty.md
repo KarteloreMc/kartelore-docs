@@ -1,10 +1,8 @@
 ---
 sidebar_position: 1
-title: Fregata
+title: Atrybuty
 ---
-![Fregata](./img/freagata.png)
-Fregata to statek bojowy, zawiera 4 działa na które mogą wsiadać gracze, zatem mieści w sumie 5 osób wraz ze sterującym.
-
+![Atrybuty]
 ## Jak działa Fregata?
 
 ### Jak zdobyć Fregatę?
