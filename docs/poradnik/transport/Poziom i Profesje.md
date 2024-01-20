@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Poziom/Profesje
 ---
+# Profesje
 ## Jak Działają Profesje?
 - Pofesje to specjalizacje w danej dziedzinie odblokowywujące benefity dla niej.
 ### Jak ulepszać Profesje?
