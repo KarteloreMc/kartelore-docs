@@ -7,11 +7,9 @@ title: Atrybuty
 ### Jak ulepszać Atrybuty?
 - Po zdobyciu każdego poziomu postaci otrzymujesz 1 punkt do użycia pod komendą /atrybuty. ![Atrybuty](./img/atrybuty.png)
 ### Co zmieniają Atrybuty?
-Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk która wpływa na twoją rozgrywkę.
-- Specjalny kontroler fregaty
-	- Zmień prędkość: Odpowiada za zmiane prędkości.
-	- Harpun: Odpowiada za wystrzelenie harpunu.
-	- Zatrzymaj: Odpowiada za zatrzymanie statku.
+Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk które wpływają na twoją rozgrywkę.
+- Łócznictwo
+	- Atrybut Łócznictwa permamentnie nadaje obrażenia z łuku/kuszy ![Atrybuty](./img/locznik.png)
 - Konroler kierunku Fregaty
 	- Lewo/Prawo/Przód
 - Przyśpieszenie
