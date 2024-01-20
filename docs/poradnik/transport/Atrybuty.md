@@ -17,5 +17,5 @@ Po rozdaniu punktu atrybutów otrzymujesz pernamentną z 3 statystyk które wpł
 	# ![Atrybuty](./img/rco.png)
 - Wytrzymałość
 	- Atrybut Wytrzymałości pernamentnie nadaje dodatkowe życie.
-		# ![Atrybuty](./img/wytrzy.png)
+	# ![Atrybuty](./img/wytrzy.png)
 
