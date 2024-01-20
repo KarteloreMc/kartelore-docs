@@ -10,7 +10,7 @@ title: Atrybuty
 Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk które wpływają na twoją rozgrywkę.
 - Łócznictwo
 	- Atrybut Łócznictwa permamentnie nadaje obrażenia z łuku/kuszy. 
-	- ![Atrybuty](./img/locznik.png)
+	 ![Atrybuty](./img/locznik.png)
 - Konroler kierunku Fregaty
 	- Lewo/Prawo/Przód
 - Przyśpieszenie
