@@ -4,10 +4,10 @@ title: Atrybuty
 ---
 ## Jak Działają Atrybuty?
 
-### Jak zdobyć Atrybuty?
+### Jak ulepszać Atrybuty?
 - Po zdobyciu każdego poziomu postaci otrzymujesz 1 punkt do użycia pod komendą /atrybuty.
-### Jak sterować Fregatą?
-Po postawieniu Fregaty otrzymujemy trzy przyciski do ekwipnku. Lewym przyciskiem zmieniamy kierunki/specjalności/przyśpieszenia, a prawym przyciskiem je aktywujemy.
+### Co zmieniają Atrybuty?
+Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk która wpływa na twoją rozgrywkę.
 - Specjalny kontroler fregaty
 	- Zmień prędkość: Odpowiada za zmiane prędkości.
 	- Harpun: Odpowiada za wystrzelenie harpunu.
