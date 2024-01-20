@@ -12,6 +12,7 @@ Po rozdaniu punktu atrybutów otrzymujesz permamentną z 3 statystyk które wpł
 - Łócznictwo
 	- Atrybut Łócznictwa permamentnie nadaje obrażenia z łuku/kuszy. 
 	# ![Atrybuty](./img/locznik.png)
-- Konroler kierunku Fregaty
-	- Lewo/Prawo/Przód
+- Redukcja Czasu Odnowienia
+	- Atrybut Redukcji Czasu Odnowienia permamentnie nadaje skrócony czas odnowienia umiejentości.
+	# ![Atrybuty](./img/rco.png)
 - Przyśpieszenie
