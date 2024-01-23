@@ -8,6 +8,6 @@ title: Statystyki
 - Po zdobyciu każdego poziomu w danym atrybucie otrzymujesz odpowiednie statystyki.
 # ![Statystyki](./img/stats.png)
 ### Co zmieniają Statystki?
-Statystkyki dodają stałe benefity upraszczające rozgrywke i potęgowanie siły gracza.
+Statystkyki dodają stałe benefity upraszczające rozgrywke i potęgujące siły gracza.
 
 
