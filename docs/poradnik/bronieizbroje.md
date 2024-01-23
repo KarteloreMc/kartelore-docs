@@ -4,6 +4,13 @@ title: Bronie i zbroje
 ---
 ![Bronieizbroje](./img/bronieizbroje.png)
 Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych broni oraz wiele zbroi.
+### Rzadkości Broni I Zbroji
+Zbroje i Bronie dzielą się na 5 kategorii takich jak:
+- Zwyczajne
+- Rzadkie
+- Epickie 
+- Legendarne 
+- Mityczne
 ### Typy broni
 Bronie dzielą się na następujące typy:
 - Obuchowe (Np. Maczugi)
@@ -23,18 +30,10 @@ Przebijające zadają obrażenia za celem.
 
 ![Przebijajace](./img/piercing.gif)
 
-### Rodzaje zbroi
-- Skórzane:
-Jest to najsłabszy rodzaj zbroi, lecz ta jest znacznie lżejsza dzięki czemu szybciej się poruszasz.
-- Kolczugowe:
-Jest to podstawowy rodzaj zbroi, jest cięższa od skórzanej dzięki czemu wolniej się poruszasz, lecz zapewnia większą ochronę.
-- Płytowe:
-Jest to najlepszy rodzaj zbroi, najcięższa zbroja, co sprawia najwolniejsze poruszanie się, lecz zapewnia największą ochronę.
-
 ### Crafting
-Aby zobaczyć receptury na bronie, zbroje, hełmy użyj komendy /receptury.
+Aby wytworzyć bronie i zbroje musisz znaleść sklep gdzie są sprzedawane odpowiednie stacje, musisz je postawić na ziemi i kliknąć na nie PPM aby otworzyć gui craftingu.
 
-### Bronie rzucane soon™
-Na serwerze znajdują się bronie rzucane np. javelin, aby rzucać należy włączyć tryb rzucania kucając i kilkając PPM, a następnie rzucić LPM.
+### Bronie rzucane 
+Na serwerze znajdują się bronie rzucane np. oszczep, aby rzucać należy kilknąć PPM trzymając przedmiot w ręce.
 
 credit: mvndicraft
