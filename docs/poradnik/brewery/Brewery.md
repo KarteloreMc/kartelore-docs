@@ -35,6 +35,8 @@ title: Poradnik Małego Alkocholika
 1. 8 Drewnianych Schodków 
 2. 1 Tabliczka
 
+![Mała Beczka](./img/barrel1.png)
+
 - Zbuduj kształt beczki za pomocą schodków. Następnie umieść znak na przedniej dolnej prawej stronie, wpisując "Barrel" na górnej linii. Otrzymasz potwierdzenie: "Stworzono beczkę".
 ## Duża Beczka
 1. 18 Drewnianych Desek
@@ -42,3 +44,4 @@ title: Poradnik Małego Alkocholika
 3. 5 Drewnianych Płotków
 4. 1 Tabliczka 
 
+![Duża Beczka](./img/barrel2.png)
