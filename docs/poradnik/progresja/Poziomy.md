@@ -6,6 +6,3 @@ Progresować swoją postać można w wiele stron:
 	- Atrybuty
 - Umiejętności
 	- Skille
-- Poziom
-	- Profesje 
-	- Poziom Ogólny
