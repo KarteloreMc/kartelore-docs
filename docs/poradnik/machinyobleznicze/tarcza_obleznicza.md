@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 ---
 # Armata
 
@@ -17,12 +17,16 @@ sidebar_position: 9
 
 <br></br>
 
-### Jak użyć taranu?
+### Jak załadować pocisk?
+Do armata możesz załadować pocisk:
+- Pocisk - 8 Sztabek żelaza i 8 Prochu
+
+Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie naciśnij **PPM** na zbudowaną machinę.
 
 <br></br>
 
-### Jak uderzyć taranem?
-Aby uderzyć, klikamy **LPM** w miejsce, które uderzenie ma trafić
+### Jak wystrzelić pocisk?
+Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić
 
 
 :::caution Uwaga!
