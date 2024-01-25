@@ -1,6 +1,6 @@
 # Balista
 Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Potrafi ona zabijać przeciwników z dalekiego zasięgu jednym pociskiem. **Balistą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej.**
-Zbudowanie Balisty wymaga wielorazowego **blueprint'u** (planu), 48 dębowych pni oraz 32 sztuk żelaza.
+Zbudowanie Balisty wymaga **blueprint'u** (planu).
 <br></br>
 <div class="box">
     <img 
