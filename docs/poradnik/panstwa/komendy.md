@@ -105,13 +105,6 @@ Do wyświetlania ogólnych informacji w Europie (prowincje z zasobami, prowincje
 - /nodess gracz `nazwa`: Wyświetla informacje o graczu (jego miasto i państwo).
 - /nodess wojny: Wyświetla czy wojny są włączone/wyłączone.
 
-### Rafinerie
-Do wyświetlania ogólnych informacji o rafineriach.
-- /refineria: Otwiera menu rafinerii w prowincji na której stoisz.
-- /refineria pomoc: Wyświetla listę wszystkich komend.
-- /refineria przepis `nazwa`: Wyświetla informację o recepturze rafinerii.
-- /reifneria typ `nazwa`: Wyświetla informację o typu rafinerii.
-
 ### Porty
 Do wyświetlania ogólnych informacji o portach. 
 - /porty pomoc: Wyświetla listę wszystkich komend.
