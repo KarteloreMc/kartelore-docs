@@ -20,7 +20,7 @@ W sumie na spawnie znajduje się 9 sklepów:
 - Sklep meblarza,
 - Sklep rybaka,
 - Sklep łowcy,
-- Sklep ItemsAdder (specjalne przedmioty).
+- Sklep Inne
 
 :::info Informacja
 Jeżeli nie możesz znaleźć danego sklepu, postaraj się znaleźć znaki lub tabliczki, które mogą do niego prowadzić.
