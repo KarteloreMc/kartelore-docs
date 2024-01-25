@@ -37,7 +37,7 @@ Aby zobaczyć układ prowincji na mapie możesz użyć komend **/miasto mapa**, 
 - Po zajęciu prowincji miasto nie może zająć kolejnej przez następne 30 minut.
 
 :::info  Informacja
-Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 30 minut każdy gracz, który należy do miasta otrzymuje 4 powera. Nowo stworzone miasto otrzymuje 30 powera. Cena prowincji w powerze wyświetlona jest na stronie [mapy serwera](https://mapa.kartelore.pl/) po wybraniu trzeciej opcji z zakładki **Opcje Mapy:**. Zajęcie pierwszej prowincji (jeżeli ta kosztuje więcej niż 30 powera) jest bezwarunkowe, jednak wiąże się z dużą karą surowcową. Zajęcie kolejnych prowincji wymaga od miasta posiadania powera większego od kosztu wszystkich zajętych już prowincji.
+Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 5 minut każdy gracz, który należy do miasta otrzymuje 1 powera. Nowo stworzone miasto otrzymuje 50 powera. Cena prowincji w powerze wyświetlona jest na stronie [mapy serwera](https://mapa.kartelore.pl/) po wybraniu trzeciej opcji z zakładki **Opcje Mapy:**. Zajęcie pierwszej prowincji (jeżeli ta kosztuje więcej niż 50 powera) jest bezwarunkowe, jednak wiąże się z dużą karą surowcową. Zajęcie kolejnych prowincji wymaga od miasta posiadania powera większego od kosztu wszystkich zajętych już prowincji.
 :::
 :::caution Uwaga!
 Na serwerze występuje sytem anty-AFK. Ma on na celu zapobiec bezsensownemu zdobywaniu powera. System ten wyrzuca gracza po 15 minutach nie ruszania się.
