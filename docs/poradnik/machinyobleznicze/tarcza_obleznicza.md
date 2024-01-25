@@ -6,7 +6,7 @@ sidebar_position: 8
 <br></br>
 <div class="box">
     <img 
-    src={require('./img/armata.png').default}
+    src={require('./img/tarcza_obleznicza.png').default}
     align="left"
     alt="Balistazdj"
     width="250"

@@ -6,7 +6,7 @@ sidebar_position: 9
 <br></br>
 <div class="box">
     <img 
-    src={require('./img/armata.png').default}
+    src={require('./img/taran.png').default}
     align="left"
     alt="Balistazdj"
     width="250"
