@@ -26,5 +26,3 @@ Kartelore to nowy oraz unikalny w Polsce serwer minecraft, osadzony w XV-wieczny
 - 💰 Rozwinięty system ekonomii i handlu.
 - 🪑 788 modeli mebli średniowiecznych!
 - 💣 Machiny oblężnicze!
-- 🚢 Statki!
-- 🖼️ Przyjemny dla oka wygląd serwera.
