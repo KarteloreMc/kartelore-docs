@@ -41,7 +41,7 @@ Zajęcie prowincji nie jest darmowe, kosztuje ono **power**. Co 5 minut każdy g
 :::
 
 :::info  Informacja
-Na serwerze można zajmować tylko prowincje graniczące z twoją z tego powodu jeżeli chce się zająć np. wyspę albo teren za morzem należy pisać do Administracji (najlepiej zrobić ticketa)
+Na serwerze można zajmować tylko prowincje graniczące z twoją z tego powodu jeżeli chce się zająć np. wyspę albo teren za morzem należy pisać do Administracji (najlepiej zrobić ticketa), ale należy pamiętać że takie zajmowanie terenów musi być uzasadnione np. bliskością terenu od obecnych albo historyczne tereny państwa itd. lecz należy pamiętać że prowincje nadal kosztują gracza power
 :::
 
 :::caution Uwaga!
