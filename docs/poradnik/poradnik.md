@@ -3,5 +3,5 @@
 - Możesz siebie odnaleźć na naszej [Dynmapie serwerowej](https://mapa.kartelore.pl/)
 - Dołącz lub [stwórz](https://docs.kartelore.pl/poradnik/panstwa/podstawy#jak-stworzy%C4%87-miasto) swoje miasto!
 - Sprawdź receptury wielu przedmiotów pod /receptury
-- Zapoznaj się z ekonomią serwera i stwórz swoje pierwsze sklepy
+- Zapoznaj się z ekonomią serwera
 - Jeżeli chcesz jeszcze lepszej średniowiecznej immersji na serwerze, możesz użyć texturepacka [Exclaibur](https://www.curseforge.com/minecraft/texture-packs/excalibur)
