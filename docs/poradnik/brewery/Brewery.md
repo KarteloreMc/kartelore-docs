@@ -27,7 +27,7 @@ title: Poradnik Małego Alkocholika
 
 ### Destylacja 
 - Umieść pył Glowstone w górnym slocie kociołka do warzenia jako filtr. (Nie zostanie zużyty.)
-- Load your filled bottles into the brewing stand
+- Umieść butelki z wodą do dolnych slotów.
 
 ### Dojrzewanie 
 - Do dojrzewania napojów niezbędne są drewniane beczki. Posiadają one miejsce na składowanie napojów podczas procesu starzenia. Istnieją dwie różne wielkości beczek, a większość receptur wymaga określonego rodzaju drewna.
