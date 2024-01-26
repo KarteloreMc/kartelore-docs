@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Poradnik Małego Alkocholika
+title: Poradnik Małego Alkoholika
 ---
 ### Brewery
 - To nie jest standardowe warzenie mikstur. Brewery skupia się całkowicie na alkoholu i dążeniu do jego przyjemności. Dodając kilka niestandardowych mikstur i mechanikę upicia, zawsze gwarantuje świetną zabawę.

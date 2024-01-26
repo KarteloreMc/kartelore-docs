@@ -1,0 +1,15 @@
+---
+sidebar_position: 5
+title: Surowce
+---
+
+# Surowce
+- Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały, których zdobycie jest możliwe dzięki normalnym surowcom połączonym w Kuźni Stali (patrz zdjęcie). Jest ich 5:
+- Brąz (8 × surowa miedź, 4 × węgiel, 2 × surowe żelazo)
+- Kute Żelazo (1 × brąz, 12 ×surowe żelazo)
+- Stal Niskowęglowa (1 × kute żelazo, 5 × surowe złoto, 4 × surowe żelazo)
+- Stal Damasańska (1 × stal niskowęglowa, 10 × surowe złoto, 6 × surowe żelazo)
+- Stal Meteorytowa (1 × stal damasańska, 12 × blok obsydianu, 6 × diament, 5 × surowe złoto)
+
+# Craftingi
+Zbroje i zbroje craftuje się w Kuźni Zbroi i Kuźni Broni. Podobnie jak z Kuźnią Stali, można je zdobyć w sklepie. Tarcze craftuje się jak normalne przedmioty - w crafting table. Żeby zobaczyć receptury tarcz należy wpisać /receptury.
