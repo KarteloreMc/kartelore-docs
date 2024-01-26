@@ -1,16 +1,16 @@
 ---
 sidebar_position: 5
-title: Bronie i zbroje
+title: Bronie i Zbroje
 ---
 ![Bronieizbroje](./img/bronieizbroje.png)
 Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych broni oraz wiele zbroi.
 ### Rzadkości Broni i Zbroi
 Zbroje i Bronie dzielą się na 5 kategorii takich jak:
-- Zwyczajne (Niebieski)
-- Rzadkie (Zielony)
-- Epickie (Fioletowy)
-- Legendarne (Złoty)
-- Mityczne (Seledynowy)
+- Zwyczajne (niebieski)
+- Rzadkie (zielony)
+- Epickie (fioletowy)
+- Legendarne (złoty)
+- Mityczne (seledynowy)
 ### Typy broni
 Bronie dzielą się na następujące typy:
 - Obuchowe (Np. Maczugi)
@@ -18,15 +18,15 @@ Bronie dzielą się na następujące typy:
 - Przebijające (Piki, włócznie, lance)
 ### Typy obrażeń
 
-Obuchowe zadają obrażenia obszarowe wookół celu.
+Obuchowe zadają obrażenia obszarowe wookół celu:
 
 ![Obuchowe](./img/aoe.gif)
 
-Cięte zadają obrażenia w stożku.
+Cięte zadają obrażenia w stożku:
 
 ![Ciete](./img/slashing.gif)
 
-Przebijające zadają obrażenia za celem.
+Przebijające zadają obrażenia za celem:
 
 ![Przebijajace](./img/piercing.gif)
 
