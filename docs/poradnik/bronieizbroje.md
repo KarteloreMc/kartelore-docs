@@ -4,7 +4,7 @@ title: Bronie i zbroje
 ---
 ![Bronieizbroje](./img/bronieizbroje.png)
 Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych broni oraz wiele zbroi.
-### Rzadkości Broni I Zbroji
+### Rzadkości Broni i Zbroi
 Zbroje i Bronie dzielą się na 5 kategorii takich jak:
 - Zwyczajne
 - Rzadkie
