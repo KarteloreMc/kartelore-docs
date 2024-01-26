@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Katapulta
 Katapulta to słabsza od trebusza, jednak niemniej potężna machina, która służy do atakowania murów przeciwnika. **Katapultą można się poruszać, przy czym większa ilość osób pchających ją skutkuje dużo szybszym przemieszczaniem jej.** Katapulta czyni stosunkowo mniejsze zniszczenia od trebuszu, jednak pozwala na częstsze strzelanie.
-Zbudowanie katapulty wymaga **blueprint'u** (planu).
 <br></br>
 <div class="box">
     <img 

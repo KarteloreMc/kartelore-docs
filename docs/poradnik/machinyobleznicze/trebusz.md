@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Trebusz
 Trebusz to średniowieczna machina oblężnicza służąca do miotania kamieni. Trebusze były niezwykle skuteczne podczas oblężenia murów obronnych, ponieważ pozwalały na bardzo precyzyjny atak celi znajdujących się w dużym dystansie. **Trebusze można przesuwać, natomiast nie można się nim poruszać.**
-Zbudowanie trebusza wymaga **blueprint'u** (planu).
 <div class="box">
     <img 
     src={require('./img/trebusz.png').default}

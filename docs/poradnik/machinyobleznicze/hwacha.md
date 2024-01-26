@@ -2,7 +2,6 @@
 sidebar_position: 5
 ---
 # Hwacha
-Ale sigma widzowie 
 
 <br></br>
 <div class="box">
