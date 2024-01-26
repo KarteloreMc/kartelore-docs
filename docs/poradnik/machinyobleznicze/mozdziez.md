@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 # Moździeż
-
+Moździerz to poteżna machina oblężnicza z ogromnym zasięgiem. Jej największą zalęta jest strzelanie do góry po łuku, dzięki temu jest w stanie trafiać cele skryte za osłoną. Obrażenia zadawane przez moździerz są największe spośród wszystkich machin oblężniczych. Moździerza nie można przemieścić. Zbudowanie machiny wymaga zakupienia jej na spawnie.
 <br></br>
 <div class="box">
     <img 
