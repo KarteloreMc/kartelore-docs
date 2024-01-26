@@ -16,7 +16,7 @@ Taran to niezwykle ciężka machina, służąca do niszczenia muru z bliska. Jej
 
 <br></br>
 
-### Jak uderzyć taranem?
-Aby uderzyć, klikamy **LPM** w miejsce, które uderzenie ma trafić.
+### Jak używać taranu?
+Aby użyć taranu należy do niego wsiąść (PPM). Następnie należy podjechać nim pod mur, który chcemy zniszczyć i przytrzymać PPM trzymająć w ręce patyk. Im więcj osób w okolicy taranu, tym więcej bloków niszczy.
 
 <br></br>
