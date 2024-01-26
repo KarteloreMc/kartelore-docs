@@ -4,7 +4,7 @@ title: Surowce
 ---
 
 # Surowce
-- Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały, których zdobycie jest możliwe dzięki normalnym surowcom połączonym w Kuźni Stali (patrz zdjęcie). Jest ich 5:
+- Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały, których zdobycie jest możliwe dzięki normalnym surowcom połączonym w Kuźni Stali (można ją zakupić w sklepie). Jest ich 5:
 - Brąz (8 × surowa miedź, 4 × węgiel, 2 × surowe żelazo)
 - Kute Żelazo (1 × brąz, 12 ×surowe żelazo)
 - Stal Niskowęglowa (1 × kute żelazo, 5 × surowe złoto, 4 × surowe żelazo)
