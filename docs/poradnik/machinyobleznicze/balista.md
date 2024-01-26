@@ -7,7 +7,6 @@ Balista to potężna machina oblężnicza, służąca do zwalczania piechoty. Po
 <div class="box">
     <img 
     src={require('./img/balista.png').default}
-    align="left"
     alt="Balistazdj"
     width="250"
     />

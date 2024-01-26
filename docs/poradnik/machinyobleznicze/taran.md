@@ -7,7 +7,6 @@ sidebar_position: 9
 <div class="box">
     <img 
     src={require('./img/taran.png').default}
-    align="left"
     alt="Balistazdj"
     width="250"
     />

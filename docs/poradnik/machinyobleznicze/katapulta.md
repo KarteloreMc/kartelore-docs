@@ -8,7 +8,6 @@ Katapulta to słabsza od trebusza, jednak niemniej potężna machina, która sł
 <div class="box">
     <img 
     src={require('./img/katapulta.png').default}
-    align="left"
     alt="katapultazdj"
     width="250"
     />

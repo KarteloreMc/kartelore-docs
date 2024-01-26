@@ -7,7 +7,6 @@ Moździerz to poteżna machina oblężnicza z ogromnym zasięgiem. Jej najwięks
 <div class="box">
     <img 
     src={require('./img/mozdziez.png').default}
-    align="left"
     alt="Balistazdj"
     width="250"
     />

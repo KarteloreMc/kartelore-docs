@@ -7,7 +7,6 @@ Trebusz to średniowieczna machina oblężnicza służąca do miotania kamieni. 
 <div class="box">
     <img 
     src={require('./img/trebusz.png').default}
-    align="left"
     alt="trebuszzdj"
     width="250"
     />

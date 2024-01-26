@@ -7,7 +7,6 @@ sidebar_position: 6
 <div class="box">
     <img 
     src={require('./img/kociol.png').default}
-    align="left"
     alt="Balistazdj"
     width="250"
     />
