@@ -5,7 +5,7 @@ title: Statystyki
 ## Jak Działają Statystki?
 
 ### Jak ulepszać Statystki?
-- Po zdobyciu każdego poziomu w danym atrybucie otrzymujesz odpowiednie statystyki.
+- Po zdobyciu każdego poziomu w danym atrybucie otrzymujesz odpowiednie statystyki (można je zobaczyć wpisująć /stats).
 # ![Statystyki](./img/stats.png)
 ### Co zmieniają Statystki?
 Statystyki zmieniają:

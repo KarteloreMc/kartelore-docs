@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Poziom
 ---
 ### Ogólne poziomy 
-Na serwerze znajdziecie wiele kategorii, które możecie ulepszać poprzez wykonywanie różnych czynności. Każda kategoria dodaje zwiększa odpowiednie statystyki:
+Na serwerze znajdziecie wiele kategorii, które możecie ulepszać poprzez wykonywanie różnych czynności. Każda kategoria dodaje zwiększa odpowiednie statystyki (można je sprawdzić przy użyciu /sk):
 - Rolnictwo - zwiększa zdrowie i siłę,
 - Leśnictwo - zwiększa siłę i twardość,
 - Górnictwo - zwiększa twardość i szczęście,

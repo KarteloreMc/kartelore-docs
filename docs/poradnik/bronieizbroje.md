@@ -13,9 +13,9 @@ Zbroje i Bronie dzielą się na 5 kategorii takich jak:
 - Mityczne (seledynowy)
 ### Typy broni
 Bronie dzielą się na następujące typy:
-- Obuchowe (Np. Maczugi)
-- Cięte (Zakrzywione miecze, miecze dwuręczne) 
-- Przebijające (Piki, włócznie, lance)
+- Obuchowe (Np. maczugi),
+- Cięte (zakrzywione miecze, miecze dwuręczne) ,
+- Przebijające (piki, włócznie, lance).
 ### Typy obrażeń
 
 Obuchowe zadają obrażenia obszarowe wookół celu:
@@ -41,7 +41,7 @@ Zbroje i zbroje craftuje się w Kuźni Zbroi i Kuźni Broni. Podobnie jak z Kuź
     />
 </div>
 
-### Bronie rzucane 
+### Bronie Rzucane 
 Na serwerze znajdują się bronie rzucane np. oszczep, aby rzucać należy kilknąć PPM trzymając przedmiot w ręce.
 
 credit: mvndicraft
