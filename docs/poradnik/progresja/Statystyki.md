@@ -8,6 +8,11 @@ title: Statystyki
 - Po zdobyciu każdego poziomu w danym atrybucie otrzymujesz odpowiednie statystyki.
 # ![Statystyki](./img/stats.png)
 ### Co zmieniają Statystki?
-Statystkyki dodają stałe benefity upraszczające rozgrywke i potęgujące siły gracza.
-
+Statystyki zmieniają:
+- siła - obrażenia od ataku,
+- zdrowie - więcej serc,
+- regeneracja - zwiększa szybkość regeneracji życia i głodu,
+- szczęście - większą szanse na podwójny drop,
+- mądrość - więcej zdobytego doświadczenia, redukcja kosztów używania kowadła, zwiększenie, maksymalnej many,
+- twardość - mniej przychodzących obrażeń.
 
