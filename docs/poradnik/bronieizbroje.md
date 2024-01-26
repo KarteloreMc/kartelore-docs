@@ -31,7 +31,7 @@ Przebijające zadają obrażenia za celem.
 ![Przebijajace](./img/piercing.gif)
 
 ### Crafting
-Aby wytworzyć bronie i zbroje musisz znaleść sklep gdzie są sprzedawane odpowiednie stacje, musisz je postawić na ziemi i kliknąć na nie PPM aby otworzyć gui craftingu.
+Zbroje i zbroje craftuje się w Kuźni Zbroi i Kuźni Broni. Podobnie jak z Kuźnią Stali, można je zdobyć w sklepie. Tarcze craftuje się jak normalne przedmioty - w crafting table. Żeby zobaczyć receptury tarcz należy wpisać /receptury.
 
 ### Bronie rzucane 
 Na serwerze znajdują się bronie rzucane np. oszczep, aby rzucać należy kilknąć PPM trzymając przedmiot w ręce.
