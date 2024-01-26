@@ -21,7 +21,3 @@ sidebar_position: 8
 Należy do niej wsiąść albo za nią stanąć
 
 <br></br>
-
-:::caution Uwaga!
-Po jakimś czasie machina może się zablokować, użyj wtedy patyka i naciśnij **PPM** aby odblokować maszynę.
-:::
