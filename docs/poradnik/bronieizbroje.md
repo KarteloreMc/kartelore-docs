@@ -33,6 +33,14 @@ Przebijające zadają obrażenia za celem.
 ### Crafting
 Zbroje i zbroje craftuje się w Kuźni Zbroi i Kuźni Broni. Podobnie jak z Kuźnią Stali, można je zdobyć w sklepie. Tarcze craftuje się jak normalne przedmioty - w crafting table. Żeby zobaczyć receptury tarcz należy wpisać /receptury.
 
+<div class="box">
+    <img 
+    src={require('./img/POMOCY_JA_JUZ_NIE_CHCE_ROBIC_TEJ_DOKUMENTACJI.gif').default}
+    alt="balistastrzal"
+    width="500"
+    />
+</div>
+
 ### Bronie rzucane 
 Na serwerze znajdują się bronie rzucane np. oszczep, aby rzucać należy kilknąć PPM trzymając przedmiot w ręce.
 
