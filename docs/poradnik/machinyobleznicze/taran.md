@@ -17,6 +17,6 @@ Taran to niezwykle ciężka machina, służąca do niszczenia muru z bliska. Jej
 <br></br>
 
 ### Jak uderzyć taranem?
-Aby uderzyć, klikamy **LPM** w miejsce, które uderzenie ma trafić
+Aby uderzyć, klikamy **LPM** w miejsce, które uderzenie ma trafić.
 
 <br></br>

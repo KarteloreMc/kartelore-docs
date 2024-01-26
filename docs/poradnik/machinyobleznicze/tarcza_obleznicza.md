@@ -17,6 +17,6 @@ Tarcza Oblężnicza służy do ochrony atakującego przed strzałami z np. wież
 <br></br>
 
 ### Jak użyć tarczy?
-Należy do niej wsiąść albo za nią stanąć
+Należy do niej wsiąść albo za nią stanąć.
 
 <br></br>

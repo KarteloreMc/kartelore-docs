@@ -26,7 +26,7 @@ Aby załadować dany pocisk naszykuj sobie wymagane przedmioty, a następnie nac
 <br></br>
 
 ### Jak wystrzelić pocisk?
-Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić
+Aby wystrzelić pocisk, klikamy **LPM** w miejsce, które pocisk ma trafić.
 
 <div class="box">
     <img 
