@@ -22,6 +22,10 @@ W sumie na spawnie znajduje się 9 sklepów:
 - Sklep łowcy,
 - Sklep Rzemieślnika,
 
+## Prace
+Na serwerze znajdują się prace. Aby uzyskać więcej informacji na ten temat należy wpisać /jobs browse.
+
+
 :::info Informacja
 Jeżeli nie możesz znaleźć danego sklepu, postaraj się znaleźć znaki lub tabliczki, które mogą do niego prowadzić.
 :::
