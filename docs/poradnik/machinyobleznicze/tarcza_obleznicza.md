@@ -17,6 +17,8 @@ Tarcza Oblężnicza służy do ochrony atakującego przed strzałami z np. wież
 <br></br>
 
 ### Jak użyć tarczy?
-Należy do niej wsiąść albo za nią stanąć.
+Tarcza ma 2 tryby, pomiędzy którymi można się zmieniać klikając PPM patykiem:
+- Ruchomy, podczas którego można zapeewnić sobie ochronę przez wsiadanie do tarczy (PPM).
+- Statyczny, podczas którego tarczy nie da się, a chroni ona wszystko co jest za nią.
 
 <br></br>
