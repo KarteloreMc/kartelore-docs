@@ -4,4 +4,5 @@
 - Dołącz lub [stwórz](https://docs.kartelore.pl/poradnik/panstwa/podstawy#jak-stworzy%C4%87-miasto) swoje miasto!
 - Zakup stacje robocze u rzemieślnika na sprawnie, aby wytwarzać bronie i zbroje.
 - Zapoznaj się z ekonomią serwera
+- Wybierz prace pod komendą /jobs aby zacząć zarabiać pieniądze.
 - Jeżeli chcesz jeszcze lepszej średniowiecznej immersji na serwerze, możesz użyć texturepacka [Exclaibur](https://www.curseforge.com/minecraft/texture-packs/excalibur)
