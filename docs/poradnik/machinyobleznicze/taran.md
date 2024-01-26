@@ -17,13 +17,10 @@ sidebar_position: 9
 
 <br></br>
 
-### Jak użyć taranu?
-
-<br></br>
-
 ### Jak uderzyć taranem?
 Aby uderzyć, klikamy **LPM** w miejsce, które uderzenie ma trafić
 
+<br></br>
 
 :::caution Uwaga!
 Po jakimś czasie machina może się zablokować, użyj wtedy patyka i naciśnij **PPM** aby odblokować maszynę.

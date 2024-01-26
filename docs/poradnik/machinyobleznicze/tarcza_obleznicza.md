@@ -18,6 +18,7 @@ sidebar_position: 8
 <br></br>
 
 ### Jak użyć tarczy?
+Należy do niej wsiąść albo za nią stanąć
 
 <br></br>
 

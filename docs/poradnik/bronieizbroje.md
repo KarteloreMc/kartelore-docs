@@ -6,11 +6,11 @@ title: Bronie i zbroje
 Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych broni oraz wiele zbroi.
 ### Rzadkości Broni i Zbroi
 Zbroje i Bronie dzielą się na 5 kategorii takich jak:
-- Zwyczajne
-- Rzadkie
-- Epickie 
-- Legendarne 
-- Mityczne
+- Zwyczajne (Niebieski)
+- Rzadkie(Zielony)
+- Epickie (Fioletowy)
+- Legendarne (Złoty)
+- Mityczne (Seledynowy)
 ### Typy broni
 Bronie dzielą się na następujące typy:
 - Obuchowe (Np. Maczugi)
