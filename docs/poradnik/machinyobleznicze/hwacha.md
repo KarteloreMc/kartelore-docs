@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 # Hwacha
-
+Hwacha to azjatycka machina, która strzela masą śmiercioniosnych strzał, które nie niszczą otoczenia. Jednak należy uważać, bo Hwacha to bardzo delikatna machina, łatwa do zniszczenia. Można ją przemieszczać. Możliwe jest poruszanie jej. **Zbudowanie machiny wymaga zakupienia jej na spawnie.**
 <br></br>
 <div class="box">
     <img 

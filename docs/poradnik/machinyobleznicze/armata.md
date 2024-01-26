@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 # Armata
-Armata to machina charakteryzująca się dobrym zasięgiem i sporymi uszkodzeniami, które może skutecznie wykorzystywać zarówno do obrony miasta, jak i niszczenia murów. Możliwe jest poruszanie jej. Zbudowanie machiny wymaga zakupienia jej na spawnie.
+Armata to machina charakteryzująca się dobrym zasięgiem i sporymi uszkodzeniami, które może skutecznie wykorzystywać zarówno do obrony miasta, jak i niszczenia murów. Możliwe jest poruszanie jej. **Zbudowanie machiny wymaga zakupienia jej na spawnie.**
 <br></br>
 <div class="box">
     <img 
