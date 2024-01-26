@@ -7,7 +7,6 @@ sidebar_position: 5
 <div class="box">
     <img 
     src={require('./img/hwacha.png').default}
-    align="left"
     alt="Balistazdj"
     width="250"
     />
