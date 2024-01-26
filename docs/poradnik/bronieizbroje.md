@@ -7,7 +7,7 @@ Na serwerze znajduje się w sumie 80 tarcz, 50 hełmów, ok. 50 różnorodnych b
 ### Rzadkości Broni i Zbroi
 Zbroje i Bronie dzielą się na 5 kategorii takich jak:
 - Zwyczajne (Niebieski)
-- Rzadkie(Zielony)
+- Rzadkie (Zielony)
 - Epickie (Fioletowy)
 - Legendarne (Złoty)
 - Mityczne (Seledynowy)
