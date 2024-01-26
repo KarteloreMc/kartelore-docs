@@ -2,11 +2,13 @@
 sidebar_position: 5
 ---
 # Hwacha
+Ale sigma widzowie 
 
 <br></br>
 <div class="box">
     <img 
     src={require('./img/hwacha.png').default}
+    align="left"
     alt="Balistazdj"
     width="250"
     />
