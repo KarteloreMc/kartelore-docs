@@ -3,16 +3,16 @@ sidebar_position: 3
 title: Poziom
 ---
 ### Ogólne poziomy 
-- Na serwerze znajdziecie wiele różnych rzeczy do ulepszania które dają statystyki takie jak:
-1. Rolnictwo (Zdrowie/Siła)
-2. Drwalnictwo (Siła/Twardość)
-3. Górnictwo (Twardość/Szczęście)
-4. Wędkarstwo (Szczęście/Zdrowie)
-5. Wydobywanie (Regeneracja/Szczęście)
-6. Łucznictwo (Szczęście/Siła)
-7. Obrona (Twardość/Zdrowie)
-8. Walka (Siła/Regeneracja)
-9. Wytrzymałość (Regeneracja/Twardość)
-10. Zręczność (Mądrość/Regeneracja)
+Na serwerze znajdziecie wiele kategorii, które możecie ulepszać poprzez wykonywanie różnych czynności. Każda kategoria dodaje zwiększa odpowiednie statystyki:
+- Rolnictwo - zwiększa zdrowie i siłę,
+- Leśnictwo - zwiększa siłę i twardość,
+- Górnictwo - zwiększa twardość i szczęście,
+- Wędkarstwo - zwiększa szczęście i zdrowie,
+- Wydobywanie - zwiększa regeneracje i szczęście,
+- Łucznictwo - zwiększa szczęście i siłę,
+- Obrona - zwiększa twardość i zdrowie,
+- Walka - zwiększa siłę i regeneracje,
+- Wytrzymałość - zwiększa regeneracje i twardość,
+- Zręczność - zwiększa mądrość i regeneracje.
 
 # ![Umiejętności](./img/umie,png.png)
