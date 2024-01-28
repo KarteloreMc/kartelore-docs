@@ -32,8 +32,8 @@ Aby zaatakować prowincje stawiamy dowolny **płotek** na chunku (płotek ma imi
 - Możliwe jest atakowanie trzech różnych chunków w tym samym czasie.
 - "Flaga" musi widzieć niebo, nie może być postawiona pod ziemią lub pod wodą.
 - Zniszcz wełnę lub płotek by przerwać atak przeciwnika (po postawieniu **płotka**, plugin automatycznie kładzie na niego wełnę).
-- Jeżeli "flaga" nie zostanie znisczona, po upływie 45 sekund zajmiesz chunk'a. Możesz obudować "flagę", jednak nie możesz postawić bloku w obrębie jednej kratki od "flagi".
-- Zajmij Home chunk (**H** na /miasto minimapa lub /miasto mapa) aby zająć całą prowincję, tym samym ją okupując. Pamiętaj jednak, że zajmowanie Home chunka trwa prawie pięć minut!
+- Jeżeli "flaga" nie zostanie znisczona, po upływie 3 minut zajmiesz chunk'a. Możesz obudować "flagę", jednak nie możesz postawić bloku w obrębie jednej kratki od "flagi".
+- Zajmij Home chunk (**H** na /miasto minimapa lub /miasto mapa) aby zająć całą prowincję, tym samym ją okupując. Pamiętaj jednak, że zajmowanie Home chunka trwa prawie sześć minut!
 
 <div class="box">
     <img 
