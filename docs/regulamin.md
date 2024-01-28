@@ -115,7 +115,9 @@ sidebar_position: 2
 
 5.7. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Skandynawia) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.7.1. Jeżeli tworzysz miasto/państwo musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa), dopiero po zajęciu "swoich" ziem możesz zajmować dowolne prowincje (nie wlicza się podboju terenów od innych kraji)
+5.7.1. Jeżeli tworzysz miasto/państwo musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa), dopiero po zajęciu "swoich" ziem możesz zajmować dowolne prowincje (nie wlicza się podboju terenów od innych kraji).
+
+5.8. Zakaz robienia "szklaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
 
 
 ### Regulacje dotyczące budynków/RP:
