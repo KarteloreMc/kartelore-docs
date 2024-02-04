@@ -16,6 +16,10 @@ Bronie dzielą się na następujące typy:
 - Obuchowe (Np. maczugi),
 - Cięte (zakrzywione miecze, miecze dwuręczne) ,
 - Przebijające (piki, włócznie, lance).
+
+:::info  Informacja
+Zbroje Rzymskie są tylko dla rang vip+
+:::
 ### Typy obrażeń
 
 Obuchowe zadają obrażenia obszarowe wookół celu:
