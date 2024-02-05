@@ -67,6 +67,13 @@ Aneksja jest mocno zalecana.
 
 Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miasto, tzn. możesz na niej budować, używać skrzynek, itd...
 
+### Konflikty Graniczne
+- Państwa mogą atakować tylko prowincje graniczące.
+- Jeżeli stolica okaże się graniczącą prowincją, ta nie może zostać przejęta.
+- Kiedy zajmiesz prowincję otrzymujesz ją na 24 godziny, potem jest zwracana do właściciela.
+- **Konflikty Graniczne** będą włączone dla każdego.
+- **Konflikty Graniczne** mogą być okazją do tworzenia celu wojennego (Casus Belli).
+
 ### Traktaty pokojowe
 - Wpisz **/pokoj `nazwa_miasta/nazwa_panstwa`** aby negocjować **traktat pokojowy**, otwiera to GUI traktatu pokojowego.
 - Traktat pokojowy może być negocjowany w każdym czasie, nawet przed wojną, lub po jej zakończeniu. W ramach komendy **/pokoj `nazwa_miasta/nazwa_panstwa`** możesz np. sprzedawać prowincje innym graczom.
