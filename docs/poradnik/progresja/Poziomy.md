@@ -6,3 +6,7 @@ Progresować swoją postać można w wiele stron:
 	- Atrybuty
 - Umiejętności
 	- Skille
+
+:::info Informacja
+Te sprawdzić można pod /sk już na serwerze mc
+:::
