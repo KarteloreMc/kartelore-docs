@@ -8,5 +8,5 @@ Progresować swoją postać można w wiele stron:
 	- Skille
 
 :::info Informacja
-Te sprawdzić można pod /sk już na serwerze mc
+Te sprawdzić można pod /stats albo /sk już na serwerze mc
 :::
