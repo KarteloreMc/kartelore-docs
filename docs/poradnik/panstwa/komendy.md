@@ -117,18 +117,3 @@ Do wyświetlania ogólnych informacji o portach.
 ### Pozostałe komendy
 - /gracz `nick`: Wyświetla informacje o graczu.
 - /terytorium `id`: Wyświetla informacje o terytorium.
-
-### Grupy Permisji
-town: Gracze w twoim mieście
-trusted: Zaufani gracze w twoim mieście (using /t trust [name])
-nation: Gracze w twoim państwie
-ally: Gracze w sojuszu z twoim miastem/państwem
-outsider: Neutralni gracze
-
-### Typy Permisji
-interact: use blocks (doors, buttons, ...) required for everything below
-build: place blocks
-destroy: destroy blocks
-chests: open chests
-items: use items (CURRENTLY DOES NOTHING)
-income: allow opening /t income chest
