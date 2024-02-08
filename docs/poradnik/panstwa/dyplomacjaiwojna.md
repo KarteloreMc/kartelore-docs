@@ -55,6 +55,10 @@ Przykład celów wojennych Włoch przeciwko Francji:
 # Zasady Najemników
 Grupy najemników są tworzone na życzenie gracza w zgłoszeniach, z zatwierdzeniem ich liderów narodowych. Oczekuje się, że najemnicy wysłuchają ofert obu stron i nie będą używani jako ogólny pretekst do PVP dla zabawy. Konieczny będzie dowód zakupu. Płatność może być dokonywana w zasobach lub obszarach, jeśli ma to sens. Najemnicy nie mają prawa do stawiania celów wojennych. Grupy najemników są ograniczone do maksymalnie 10 członków. Zasada stanowi, że każda strona wojny ma prawo wynająć jedną grupę najemników. W przypadku bardzo dużych wojen, z udziałem wielu narodów, możemy znieść limit grup najemników po każdej stronie.
 
+:::info Informacja
+Grupę najemników (osoby które zamierzają dołączyć do wojny) należy podać w tickecie na dc
+:::
+
 # Bunt
 Jeśli miasto zostało zdobyte, ma opcję buntu przez 2 okresy wojenne po swoim podbiciu. Podczas buntu miasto nie zostanie pozbawione większości swoich obszarów, które są pod kontrolą ich zwierzchnika, zachowując tylko te wokół swojej stolicy (maksymalnie 5 obszarów, decyzja indywidualna). Bunt podlega tym samym zasadom, co deklaracje wojenne pod względem terminów. Buntujące się narody mogą mieć tylko jednego sojusznika, który wspiera ich niepodległość bezpośrednio poprzez wojnę.
 
