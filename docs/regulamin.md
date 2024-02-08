@@ -44,6 +44,8 @@ sidebar_position: 2
 
 2.7. Zakazane jest omijanie AFK.
 
+2.8. Zakaz "griefowania" z użyciem błędów pluginów.
+
 ### Przewagi w grze:
 3.1. Zakaz używania modów, które dają przewagę, której zwykli gracze nie mogą uzyskać.
 
@@ -56,68 +58,59 @@ sidebar_position: 2
 3.5. Użycie botów w jakiejkolwiek formie jest całkowicie zakazane.
 
 ### Wojna:
-4.1. Aby wypowiedzieć wojnę powinieneś posiadać casus beli (powód wojny) z zasady do większości nie będzie żadnych problemów o ile nie są irracjonalne albo "odklejone".
+4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki.
 
-4.1.1. Casus belli należy ogłosić na chacie globalnym w minecrafcie i na kanale #ogłoszenia-rp na serwerze discord przed wypowiedzeniem wojny. "Wypowiedzieć wojnę" (wpisać komendę rozpoczynającą wojnę) można od razu po napisaniu casus belli. Wypowiedzenie wojny bez casus belli kończy się karą w postaci zwrotnego casus beli przez nadmierną ekspansję dla wszystkich państw/miast dla serwerze oraz karą (nie zawsze) dla osoby która wypowiedziała wojnę.
+4.2. Zmienianie miast tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
 
-4.2. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki.
+4.3. Wszelkie wylogowanie podczas wojny (większość graczy narodu wylogowywuje się) skutkuje natychmiastową kapitulacją narodu.
 
-4.3. Zmienianie miast tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
+4.4. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
 
-4.4. Wszelkie wylogowanie podczas wojny (większość graczy narodu wylogowywuje się) skutkuje natychmiastową kapitulacją narodu.
+4.5. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. na zbyt wysokich budowlach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
 
-4.5. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
+4.6. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
 
-4.6. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. na zbyt wysokich budowlach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
+4.7. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec zdobyciu flagi w czasie wojny.
 
-4.7. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
+4.8. W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta będzie kontynuowana w kolejnym dniu z włączonym czasem wojen albo należy podpisać ze sobą pokój.
 
-4.8.Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec zdobyciu flagi w czasie wojny.
+4.9. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
 
-4.9. W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta będzie kontynuowana w kolejnym dniu albo należy podpisać ze sobą pokój.
+4.9.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia bezwarunkowej kapitulacji.
 
-4.9.1. Jeżeli w momencie zakończenia wojen jedna ze stron utraci przytłaczająca część swojego terytorium możliwe jest zgłoszenie do administracji w celu przymusowej kapitulacji przegrywającej strony.
+4.10. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
 
-4.10. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
+4.11. Wszystkie Balisty i Kotły z Wrzącym Olejem są machinami obronnymi, w związku z tym można je stawiać jedynie na zbudowanych wcześniej fortyfikacjach.
 
-4.10.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia bezwarunkowej kapitulacji.
+4.11.1. Pozostałe machiny można stawiać w dowolnym miejscu, nawet na zwykłej ziemi.
 
-4.11. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
+4.12. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
 
-4.12. Wszystkie Balisty i Kotły z Wrzącym Olejem są machinami obronnymi, w związku z tym można je stawiać jedynie na zbudowanych wcześniej fortyfikacjach.
+4.13. Zakazane jest atakowanie graczy z państw/miast toczących wojnę jeżeli twoje miasto/państwo w niej nie uczestniczysz.
 
-4.12.1. Pozostałe machiny można stawiać w dowolnym miejscu, nawet na zwykłej ziemi.
+4.13.1. Jeżeli będziesz graczom prowadzącym wojnę utrudniał jej prowadzenie np zasłaniając widok podczas strzelania z machin itd. ci już mogą cie zaatakować.
 
-4.13. Atakowanie dozwolone jest nawet, jak walczące kraje nie posiadają ze sobą granicy lądowej.
-
-4.14. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
-
-4.15. Zakazane jest atakowanie graczy z państw/miast toczących wojnę jeżeli twoje miasto/państwo w niej nie uczestniczysz.
-
-4.15.1. Jeżeli będziesz graczom prowadzącym wojnę utrudniał jej prowadzenie np zasłaniając widok podczas strzelania z machin itd. ci już mogą cie zaatakować.
-
-4.16. Zakaz rozszerzania lub wykopywania wybrzeży w taki sposób, aby uczynić siebie niepodatnym na ataki (wyjątek stanowi tworzenie miejsca na port).
+4.14. Zakaz rozszerzania lub wykopywania wybrzeży w taki sposób, aby uczynić siebie niepodatnym na ataki (wyjątek stanowi tworzenie miejsca na port).
 
 ### Państwa i miasta:
-5.1. Zakaz "griefowania" z użyciem błędów pluginów.
 
-5.2. Opuszczenie/Przystąpienie do państwa w celu kradzieży przedmiotów jest zakazane.
+5.1. Opuszczenie/Przystąpienie do państwa w celu kradzieży przedmiotów jest zakazane.
 
-5.3. Buntowanie się (tj. niszczenie/kradnięcie/zdradzanie) bez oficjalnego ogłoszenia wojny i opuszczenie swojego państwa jest zakazane.
+5.2. Buntowanie się (tj. niszczenie/kradnięcie/zdradzanie) bez oficjalnego ogłoszenia wojny i opuszczenie swojego państwa jest zakazane.
 
-5.3.1. Robienie tego po kryjomu będzie łatwo wykrywane przez administrację za pomocą narzędzi do tego przeznaczonych.
+5.2.1. Robienie tego po kryjomu będzie łatwo wykrywane przez administrację za pomocą narzędzi do tego przeznaczonych.
 
-5.4. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
+5.3. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
 
-5.5. Zakaz tworzenia tymczasowych miast/państw bez określonego powodu.
+5.4. Zakaz tworzenia tymczasowych miast/państw bez określonego powodu.
 
-5.6. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
+5.5. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
 
-5.7. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Skandynawia) lub państw zgodnych z okresem w jakim jest dana edycja.
+5.6. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Skandynawia) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.7.1. Jeżeli tworzysz miasto/państwo musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa), dopiero po zajęciu "swoich" ziem możesz zajmować dowolne prowincje (nie wlicza się podboju terenów od innych kraji).
+5.6.1. Jeżeli tworzysz miasto/państwo musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa), dopiero po zajęciu "swoich" ziem możesz zajmować dowolne prowincje (nie wlicza się podboju terenów od innych kraji).
 
-5.8. Zakaz robienia "szklaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
+5.7. Zakaz robienia "szklaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
 
 
 ### Regulacje dotyczące budynków/RP:
@@ -129,8 +122,6 @@ sidebar_position: 2
 6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy.
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
-
-6.4. Zakaz budowania metra (dróg lodowych / linii kolejowych)
 
 ©️ 2023 KarteLore
 
