@@ -27,9 +27,10 @@ Podczas zgłaszania wojen, zachowaj rozwagę, aby było to sensowne i **realisty
 :::
 
 # Okresy Wojny
- a) W piątek jest jeden Okres Wojenny od 17:00 do 22:00. Priorytet w przypadku piątkowych okresów wojennych będzie udzielany mniejszym wojnom z udziałem mniejszych państw i/lub wielu grup.
- b) W soboty będą 2 Okresy Wojenne. Pierwszy trwa od 11:00 do 14:00, a drugi od 17:00 do 22:00 . Priorytet w przypadku sobotnich okresów wojennych będzie udzielany większym wojnom z udziałem głównych państw i/lub wielu grup.
- c) W niedziele będą 2 okresy wojenne trwające od 11:00 do 14:00 i od 17:00 do 22:00. Ten okres wojenny będzie przeznaczony dla wojen, które nie mogły być stoczone w soboty.
+Wojny trwają w godzinach od 17:00 do 22:00 w dniach:
+ a) Piątek  Priorytet w przypadku piątkowych okresów wojennych będzie udzielany mniejszym wojnom z udziałem mniejszych państw i/lub wielu grup.
+ b) Soboty. Priorytet w przypadku sobotnich okresów wojennych będzie udzielany większym wojnom z udziałem głównych państw i/lub wielu grup.
+ c) Niedziele. Ten okres wojenny będzie przeznaczony dla wojen, które nie mogły być stoczone w soboty.
 
 # Sojusze i Udział w Wojnach
 Każde państwo może być obecne podczas dwóch okresów wojennych, z wyjątkiem Piątkowych Wojen. Wszystkie państwa mogą być zaangażowane w dwie wojny: jedną jako główny agresor (napastnik lub obrońca) i jedną jako sojuszniczy uczestnik wojny. Przy wezwaniu sojuszników, zachowaj umiar. Jeśli Anglia walczy z Francją, Anglia nie może wezwać Moskwy do pomocy ze względu na odległość. (Inne tego typu przypadki mogą być rozstrzygnięte indywidualnie)
