@@ -25,6 +25,9 @@ Każde państwo może być obecne podczas dwóch okresów wojennych, z wyjątkie
 # Cele Wojenne
 Po opublikowaniu rozpiski wojen na weekend, uczestnicy wojny (Napastnicy i Obrońcy) mają czas do piątku na opublikowanie mapy swoich celów wojennych na prowincje w zgłoszeniu. 
 
+Przykład celów wojennych Francji przeciwko Hiszpanii:
+![Komendy](./img/claim.png)
+
 ## Zasady dotyczące celów wojennych: 
 a) Wszystkie uzyskane obszary muszą sąsiadować z państwem wypowiadającym wojnę. Oznacza to, że muszą graniczyć z nimi lub być połączone z uzyskiwaną prowincją. 
 b) Obszary przybrzeżne nie podlegają powyższej zasadzie. Atakowanie prowincji przybrzeżnych jest możliwe tylko jeśli państwo atakujące ma wybrzeże w tej samej grupie portów co prowincja przybrzeżna, który jest atakowana. 
@@ -34,9 +37,6 @@ Cele wojenne są publikowane zbiorczo przez sojuszników. Powyższe zasady nie o
 
 ## "Wojna Śmierci"
 Jeśli obie strony się zgodzą, powyższe zasady dotyczące celów wojennych mogą być zawieszone, aby umożliwić "Wojnę Śmierci", w której stawka to wszystkie obszary głównego atakującego i broniącego w wojnie.
-
-Przykład celów wojennych Francji przeciwko Hiszpanii:
-![Komendy](./img/claim.png)
 
 # Zasady Najemników
 Grupy najemników są tworzone na życzenie gracza w zgłoszeniach, z zatwierdzeniem ich liderów narodowych. Oczekuje się, że najemnicy wysłuchają ofert obu stron i nie będą używani jako ogólny pretekst do PVP dla zabawy. Konieczny będzie dowód zakupu. Płatność może być dokonywana w zasobach lub obszarach, jeśli ma to sens. Najemnicy nie mają prawa do stawiania celów wojennych. Grupy najemników są ograniczone do maksymalnie 10 członków. Zasada stanowi, że każda strona wojny ma prawo wynająć jedną grupę najemników. W przypadku bardzo dużych wojen, z udziałem wielu narodów, możemy znieść limit grup najemników po każdej stronie.
