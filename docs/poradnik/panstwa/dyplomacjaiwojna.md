@@ -16,7 +16,7 @@ Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, 
 :::
 
 # Zgłoszenie Wojny
-Termin na zgłoszenie wojny upływa w każdy czwartek. Aby zgłosić wojnę, musisz utworzyć zgłoszenie według poniższego formatu: 
+Termin na zgłoszenie wojny to minimum jeden dzień przed dniem gdy jest planowana wojna. Aby zgłosić wojnę, musisz utworzyć zgłoszenie według poniższego formatu: 
 - Nick: 
 - Zaangażowane państwa: 
 - Sojusznicy: 
