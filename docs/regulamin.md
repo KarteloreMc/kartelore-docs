@@ -58,7 +58,7 @@ sidebar_position: 2
 3.5. Użycie botów w jakiejkolwiek formie jest całkowicie zakazane.
 
 ### Wojna:
-4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki.
+4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
 4.2. Zmienianie miast tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
 
