@@ -14,7 +14,7 @@ Aby zgłosić swój budynek funkcjonalny przejdź do kanału **#budynki-funkcjon
 :::
 
 ## Tiery miast
-Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na jej terenie! W zależności od jakości i wyglądu budynku, twoja prowincja dostanie bonus w zależności od **tieru miasta**.
+Jeżeli zbudujesz ładny, średniowieczny budynek w prowincji, otrzymasz bardzo fajne i korzystne bonusy na terenie miasta! W zależności od jakości i wyglądu budynku, twoja prowincja dostanie bonus w zależności od **tieru miasta**.
 
 :::info Informacja
 Budynki funkcjonalne podlegają ocenie administracji - dokładniej osobom z rangą Moderator i wyżej, zatem trzeba się postarać aby zdobyć wysokie bonusy do surowców. Wszystkie tiery mają dane (poziomy), wyższe tiery są trudniejsze do zdobycia, jednak zapewniaja dużo większe bonusy. Jako administracja nie spodziewamy się wielu Metropolii, jednak liczymy na waszą kreatywność!
