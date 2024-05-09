@@ -11,7 +11,7 @@ Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 - IP: kartelore.pl (1.20.1)
 
 ## Unikalny serwer minecraft!
-Kartelore to nowy oraz unikalny w Polsce serwer minecraft, osadzony w XIV-XV wiecznym średniowieczu. Na serwerze jest niezliczenie wiele smaczków dodających klimatu średniowiecza: ok. 50 średniowiecznych broni, machiny oblężnicze i wiele innych!
+Kartelore to stosunkowo nowy oraz unikalny w Polsce serwer minecraft, osadzony w latach Drugiej Wojny Światowej. Na serwerze jest niezliczenie wiele smaczków dodających klimatu Drugiej Wojny Światowej!
 
 🎮 Dołącz już teraz do serwera KarteLore i wejdź w świat podbojów, polityki, handlu i nieskończonych możliwości!
 
@@ -19,10 +19,9 @@ Kartelore to nowy oraz unikalny w Polsce serwer minecraft, osadzony w XIV-XV wie
 
 ## Więcej o serwerze
 - ⚙ Brak wymaganych modów.
-- 🏴󠁭󠁶󠁵󠁮󠁿 Pierwszy w polsce plugin na państwa z systemem prowincji z gry Europa Universalis 4.
-- ⚔️ 45 nowych broni takich jak: Maczuga, Buława, Włócznia, Topór bojowy i wiele innych!
+- 🏴󠁭󠁶󠁵󠁮󠁿 Pierwszy w polsce plugin na państwa z systemem prowincji z gry Hearts of Iron IV.
 - 🗺 Mapa Świata w skali ~1:750.
-- 🏰 Geopolityczny i średniowieczny roleplay.
+- 🏰 Geopolityczny i drugowojenny roleplay.
 - 💰 Rozwinięty system ekonomii i handlu.
-- 🪑 Wiele modeli mebli średniowiecznych!
-- 💣 Machiny oblężnicze!
+- 🪑 Wiele modeli mebli drugowojennych!
+- 💣 Mnóstwo pojazdów i wiele rodzaji drugowojennego uzbrojenia!

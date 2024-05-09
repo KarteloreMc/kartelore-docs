@@ -21,35 +21,35 @@ sidebar_position: 2
 
 1.8. Stałe dokuczanie i przeszkadzanie innym graczom bez określonego celu jest karalne.
 
-1.9. Administracja ma zawsze rację i może ukarać za rzeczy nieuwzględnione w regulaminie (może również banować bez określania powodu).
+1.9. Administracja ma zawsze rację i może ukarać za rzeczy nieuwzględnione w regulaminie.
 
 1.10. Zakazuje się budowania swastyk i symboli komunistycznych w dowolnym miejscu.
 
-1.11. Zakazuje się "griefingu" czyli psucia krajobrazu, niszczenia terenu na większą skalę albo robienia ekstremalnych zniszczeń terenu w obszarach niezajętych przez nikogo..
-
-1.12. Zakaz używania broni nie pochodzących z kuźni na spawnie
+1.11. Zakazuje się "griefingu" czyli psucia krajobrazu, niszczenia terenu na większą skalę albo robienia ekstremalnych zniszczeń terenu w obszarach niezajętych przez gracza.
 
 ### Wykorzystywanie błędów:
 2.1. Zakaz wykorzystywania duplikowania lub nielegalnego generowania przedmiotów lub zasobów.
 
 2.2. Zakaz nadużywania, bądź wykorzystywania niezamierzonych funkcji gry lub pluginów serwera.
 
-2.3. Zakaz wykorzystywania lub próbowania wykorzystania błędów w celu zawieszania lub spowalniania działania serwera (karą za taki czyn jest pernamentny ban).
+2.3. Zakaz wykorzystywania lub próbowania wykorzystania błędów w celu zawieszania lub spowalniania działania serwera (karą za taki czyn jest zawsze pernamentny ban).
 
 2.4. Zakaz wykorzystywania dowolnego błędu lub niezamierzonej mechaniki gry w celu teleportacji lub omijania ograniczeń czasowych podróży (np. portów lub spawnu miasta).
 
 2.5. Niezgłaszanie odkrytych błędów, niezamierzonych funkcji lub innych błędów, które dają przewagę, może skutkować wysokimi karami.
 
-2.6. Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji zostaną nagrodzone według uznania administracji wyższego szczebla.
-
-2.6.1. Celowe zgłaszanie jednego błędu przez zmówioną grupę graczy może zostać uznane za przeszkadzanie administracji serwera.
+2.6. Celowe zgłaszanie jednego błędu przez zmówioną grupę graczy może zostać uznane za przeszkadzanie administracji serwera.
 
 2.7. Zakazane jest omijanie AFK.
 
 2.8. Zakaz "griefowania" z użyciem błędów pluginów.
 
+:::info Informacja
+Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli istotne mogą zostać nagrodzone według uznania przez członka administracji wyższego szczebla.
+:::
+
 ### Przewagi w grze:
-3.1. Zakaz używania modów, które dają przewagę, której zwykli gracze nie mogą uzyskać.
+3.1. Zakaz używania modów, które dają przewagę, której zwykli gracze nie mogą uzyskać (np. mody z minimapą na której są widoczni gracze)
 
 3.2. Zakaz używania modów, które automatycznie umieszczają, niszczą lub automatyzują zadania (dozwolony jest mod "litematica").
 
@@ -62,37 +62,29 @@ sidebar_position: 2
 ### Wojna:
 4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
-4.2. Zmienianie miast tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
+4.2. Zmienianie miast w czasie lub tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
 
-4.3. Wszelkie wylogowanie podczas wojny (większość graczy narodu wylogowywuje się) skutkuje natychmiastową kapitulacją narodu.
+4.3. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
 
-4.4. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
+4.4. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. na zbyt wysokich budowlach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
 
-4.5. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. na zbyt wysokich budowlach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
+4.5. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
 
-4.6. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
+4.6. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec postawieniu flagi w czasie wojny.
 
-4.7. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec zdobyciu flagi w czasie wojny.
+4.6.1. Zakazuje się rónież budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się prawie do limitu wysokości budowania itd.).
 
-4.8. W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta będzie kontynuowana w kolejnym dniu z włączonym czasem wojen albo należy podpisać ze sobą pokój.
+4.7. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
 
-4.9. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
+4.7.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia przegranej.
 
-4.9.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia bezwarunkowej kapitulacji.
+4.9. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
 
-4.10. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
+4.10. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
 
-4.11. Wszystkie Balisty i Kotły z Wrzącym Olejem są machinami obronnymi, w związku z tym można je stawiać jedynie na zbudowanych wcześniej fortyfikacjach.
+4.11. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
 
-4.11.1. Pozostałe machiny można stawiać w dowolnym miejscu, nawet na zwykłej ziemi.
-
-4.12. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
-
-4.13. Zakazane jest atakowanie graczy z państw/miast toczących wojnę jeżeli twoje miasto/państwo w niej nie uczestniczysz.
-
-4.13.1. Jeżeli będziesz graczom prowadzącym wojnę utrudniał jej prowadzenie np zasłaniając widok podczas strzelania z machin itd. ci już mogą cie zaatakować.
-
-4.14. Zakaz rozszerzania lub wykopywania wybrzeży w taki sposób, aby uczynić siebie niepodatnym na ataki (wyjątek stanowi tworzenie miejsca na port).
+4.11.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat.
 
 ### Państwa i miasta:
 
@@ -100,24 +92,20 @@ sidebar_position: 2
 
 5.2. Buntowanie się (tj. niszczenie/kradnięcie/zdradzanie) bez oficjalnego ogłoszenia wojny i opuszczenie swojego państwa jest zakazane.
 
-5.2.1. Robienie tego po kryjomu będzie łatwo wykrywane przez administrację za pomocą narzędzi do tego przeznaczonych.
-
 5.3. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
 
-5.4. Zakaz tworzenia tymczasowych miast/państw bez określonego powodu.
+5.4. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
 
-5.5. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
+5.6. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.6. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Skandynawia) lub państw zgodnych z okresem w jakim jest dana edycja.
-
-5.6.1. Jeżeli tworzysz miasto/państwo musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa), dopiero po zajęciu "swoich" ziem możesz zajmować dowolne prowincje (nie wlicza się podboju terenów od innych kraji).
+5.6.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
 5.7. Zakaz robienia "szklaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
 
 
 ### Regulacje dotyczące budynków/RP:
 
-6.1. Budynki funkcjonalne oraz wszystkie inne budynki muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie późne średniowiecze około XIII - XV. wieku), np. nie ma memicznych budynków czy lepianek z dirta.
+6.1. Budynki funkcjonalne oraz wszystkie inne budynki muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie okres drugiej wojny światowej).
 
 6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na oceanie.
 
@@ -125,5 +113,5 @@ sidebar_position: 2
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
-©️ 2023 KarteLore
+©️ 2024 KarteLore
 
