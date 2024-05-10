@@ -13,7 +13,8 @@ title: Państwa - Podstawy
 - Gracze posiadający miasta zajmują prowincje, by korzystać z zasobów tych prowincji.
 - Podczas wojny możesz przejmować prowincje innych miast.
 
-EEEEEEEEE TU NAPISZ JAK MIEĆ PAŃSTWO
+## Jak mieć Państwo
+Aby otrzymać państwo należy złożyć zgłoszenie na kanale "#wniosek-o-zajęcie-państwa" na naszym discordzie. Każde Państwo posiada limit graczy na zajęcie państwa i dopóki kraje w danym przedziale liczbowym się nie wyczerpią to teamy będą musiały wybrać państwa w określonym zakresie liczbowym (czyli dopóki są państwa dla danej liczby ludzi albo dopóki nie zabraknie teamów dla danych grup (raczej tyczy się najwyższych limitów)).
 
 :::info Informacja
 Aby zobaczyć układ prowincji na mapie możesz użyć komend **/miasto mapa**, **/miasto minimapa** lub wejść na stronę [dynmapy serwera](https://mapa.kartelore.pl/).
@@ -27,13 +28,3 @@ Każda prowincja z ustalonym przychodem, co godzinę generuje surowce, które mo
 
 ## Co to jest państwo?
 W użytym przez nas pluginie państwo to związek miast. Gracze państwa mogą korzystać z zasobów innych miast państwa oraz mogą na terenie tych miast budować i niszczyć bloki. Gracze danego miasta w państwie nie mogą odbierać **income'u** innego miasta. Aby zaprosić inne miasta lub państwa do twojego państwa użyj komendy **/panstwo zapros `nazwa`**.
-
-
-
-
-
-
-
-
-
-
