@@ -4,12 +4,17 @@ title: Surowce
 ---
 
 # Surowce
-Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały, których zdobycie jest możliwe dzięki normalnym surowcom połączonym w Kuźni Stali (można ją zakupić w sklepie). Jest ich 5:
-- Brąz (12 × surowa miedź, 6 × węgiel, 5 × surowe żelazo)
-- Kute Żelazo (1 × brąz, 15 ×surowe żelazo)
-- Stal Niskowęglowa (2 × kute żelazo, 8 × surowe złoto, 6 × surowe żelazo)
-- Stal Damasańska (3 × stal niskowęglowa, 12 × surowe złoto, 8 × surowe żelazo)
-- Stal Meteorytowa (3 × stal damasańska, 14 × blok obsydianu, 6 × diament, 8 × surowe złoto)
+Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały.
+- Wolfram  Znaleźć to można pod ziemią
+- Guma  Materiał tworzony z kauczuku lub węgla
+- Chrom  Znaleźć to można pod ziemią
+- Amelinium  Uzyskiwane po przepaleniu Boksytu
+- Boksyt  Do znalezienia pod ziemią
+- Tkaniny  Uzyskiwane po zcraftowaniu z Bawełny
+- Bawełna  Do zebrania z roślin z Bawełną
+- Stal  Uzyskiwalne po zcraftowaniu przepalonego Żelaza oraz Węgla
+- Paliwo  Uzyskiwane z Ropy bądź Węgla
+- Ropa  Uzyskiwana z prowincji z Ropą
 
 <div class="box">
     <img 
