@@ -4,28 +4,17 @@ title: Ekonomia
 ---
 ![Ekonomia](./img/ekonomia.png)
 
+# Ekonomia
+
+Ekonomia jest jedną z najbardziej podstawowych rzeczy na serwerze, ale podczas obecnej edycji chcemy postawić aby to gracze tworzyli ją całkowicie albo w bardzo dużej mierze aby zwiększyć interakcje między nimi oraz nadać większy sens posiadania prowincji z danymi surowcami.
+
 ## Jak zarabiać pieniądze?
-- Aby zarobić pierwsze pieniądze udaj się na spawn komendą **/spawn** i sprzedaj posiadane przez Ciebie przedmioty u różnych NPC,
-- Umawiaj się i handluj z innymi graczami,
-- Przejmuj majątki innych graczy podczas wojen,
+- Handluj z graczami fizycznie lub poprzez Rynek Międzynarodowy.
+- Przejmuj majątki innych graczy podczas wojen.
 - Wyznaczaj reparacje wojenne po wygranych wojnach.
+- Pozyskuj podatki z tierów miast.
+- Crafting "Drukowanie" pieniędzy
 
-## Jakie sklepy znajdują się na spawnie?
-Na spawnie znajduje się wiele różnych sklepów. Każdy sklep pozwala na sprzedaż przedmiotów z danej kategorii. 
-W sumie na spawnie znajduje się 9 sklepów:
-- Sklep budowlany,
-- Sklep ogrodniczy,
-- Sklep górniczy,
-- Sklep żywnościowy,
-- Sklep meblarza,
-- Sklep rybaka,
-- Sklep łowcy,
-- Sklep Rzemieślnika,
+## Dlaczego ekonomia zbudowana na graczach?
 
-## Prace
-Na serwerze znajdują się prace. Aby uzyskać więcej informacji na ten temat należy wpisać /jobs browse.
-
-
-:::info Informacja
-Jeżeli nie możesz znaleźć danego sklepu, postaraj się znaleźć znaki lub tabliczki, które mogą do niego prowadzić.
-:::
+Chcemy spróbować czegoś nie szablonowego oraz dać się wykazać graczom. Czy w przypadku gdy ktoś "dodrukuje" zbyt dużo pieniędzy i spowodowałby "inflację" to gracze będą zwiększali ceny? a może postanowią zamknąć się na sprzedaż konkretnym krajom i osobom po normalnych cenach aby nie dać przewagi przeciwnikowi. I właśnie w takich kwestiach chcemy abyście to wy decydowali jak wyglądać będzie ekonomia serwera, aby ta była nieprzewidywalna.
