@@ -4,21 +4,13 @@ title: Surowce
 ---
 
 # Surowce
-Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały.
-- Wolfram Proces pozyskiwania: Poprzez zwykłe kopanie
-- Chrom  Znaleźć go można pod ziemią
-- Aluminium  Uzyskiwane po przepaleniu Boksytu
-- Boksyt  Do znalezienia pod ziemią
-- Tkaniny  Uzyskiwane po zcraftowaniu z Bawełny
-- Bawełna  Do zebrania z roślin z Bawełną
-- Stal  Uzyskiwalne po połączeniu przepalonego Żelaza oraz Węgla
-- Paliwo  Uzyskiwane z Ropy bądź Węgla
-- Ropa  Uzyskiwana z prowincji z Ropą
-
-<div class="box">
-    <img 
-    src={require('./img/seksiak-ez.gif').default}
-    alt="balistastrzal"
-    width="500"
-    />
-</div>
+Na serwerze poza niektórymi normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały.
+- Wolfram Proces pozyskiwania: Poprzez zwykłe kopanie rud Wolframu
+- Chrom  Proces pozyskiwania: Poprzez zwykłe kopanie rud chromu
+- Aluminium  Proces pozyskiwania: Poprzez przepalenie Boksytu
+- Boksyt  Proces pozyskiwania: Poprzez zwykłe kopanie rud Boksytu
+- Tkaniny  Proces pozyskiwania: Uzyskiwane po zcraftowaniu z Bawełny
+- Bawełna  Proces pozyskiwania: Do zebrania z roślin z Bawełną
+- Stal  Proces pozyskiwania: Uzyskiwalne po połączeniu w craftingu przepalonego Żelaza oraz Węgla
+- Paliwo  Proces pozyskiwania: Craftowalne z Ropy bądź Węgla
+- Ropa  Proces pozyskiwania: Uzyskiwana z prowincji z Ropą
