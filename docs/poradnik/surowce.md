@@ -14,3 +14,7 @@ Na serwerze poza niektórymi normalnymi surowcami z podstawowego minecrafta, dod
 - Stal  Proces pozyskiwania: Uzyskiwalne po połączeniu w craftingu przepalonego Żelaza oraz Węgla
 - Paliwo  Proces pozyskiwania: Craftowalne z Ropy bądź Węgla
 - Ropa  Proces pozyskiwania: Uzyskiwana z prowincji z Ropą
+
+:::info Informacja
+Część Surowców można również pozyskać z Przychodu prowincji albo zwiększyć ilości sposobów powyżej dzieki boostom na odpowiednich prowincjach (im wyższe tiery danego surowca tym większe boosty w jego pozyskiwaniu)
+:::
