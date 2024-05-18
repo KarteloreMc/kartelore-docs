@@ -5,8 +5,7 @@ title: Surowce
 
 # Surowce
 Na serwerze poza normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały.
-- Wolfram  Znaleźć go można pod ziemią
-- Guma  Materiał tworzony z kauczuku lub węgla
+- Wolfram Proces pozyskiwania: Poprzez zwykłe kopanie
 - Chrom  Znaleźć go można pod ziemią
 - Aluminium  Uzyskiwane po przepaleniu Boksytu
 - Boksyt  Do znalezienia pod ziemią
