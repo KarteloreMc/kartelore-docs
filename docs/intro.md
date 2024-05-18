@@ -6,7 +6,7 @@ slug: /
 # 🌍 Witamy na Dokumentacji Serwera KarteLore! 
 Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
-![Witamy na Kartelore](./img/kartelorekoronki.png)
+![Witamy na Kartelore](./img/gif_kartelore.gif)
 
 - IP: kartelore.pl (1.20.1)
 
