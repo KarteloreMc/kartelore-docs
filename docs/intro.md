@@ -10,7 +10,7 @@ Znajdziesz tu wiele ważnych informacji na temat naszego serwera
     <img 
     src={require('./img/gif_kartelore.gif').default}
     alt="atakowanieprowincji"
-    width="600"
+    width="544"
     />
 </div>
 
