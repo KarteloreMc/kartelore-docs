@@ -6,7 +6,13 @@ slug: /
 # 🌍 Witamy na Dokumentacji Serwera KarteLore! 
 Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
-![Witamy na Kartelore](./img/gif_kartelore.gif)
+<div class="box">
+    <img 
+    src={require('./img/gif_kartelore.gif').default}
+    alt="atakowanieprowincji"
+    width="600"
+    />
+</div>
 
 - IP: kartelore.pl (1.20.1)
 
