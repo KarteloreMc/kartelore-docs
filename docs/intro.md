@@ -6,14 +6,7 @@ slug: /
 # 🌍 Witamy na Dokumentacji Serwera KarteLore! 
 Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
-<div class="box">
-    <img 
-    src={require('./img/gif_kartelore.gif').default}
-    align="left"
-    alt="Ochronazdj"
-    width="250"
-    />
-</div>
+![Witamy na Kartelore](./img/gif_kartelore.gif)
 
 - IP: kartelore.pl (1.20.1)
 
