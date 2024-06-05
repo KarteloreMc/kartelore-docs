@@ -47,6 +47,9 @@ Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora m
 Wojny historyczne mają odgórne 
 :::
 
+Przykład celów wojennych Francji przeciw Włochom:
+![Komendy](./img/claim.png)
+
 ## Zasady dotyczące wielkości celów wojennych: 
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
@@ -56,9 +59,6 @@ Wojny historyczne mają odgórne cele które mogą być niezgodne z tymi powyże
 
 ## "Wojna Totalna"
 Jeśli obie strony się zgodzą, powyższe zasady dotyczące celów wojennych mogą być zawieszone, aby umożliwić "Wojnę Totalną", w której stawka to wszystkie obszary głównego atakującego i broniącego w wojnie.
-
-Przykład celów wojennych Francji przeciw Włochom:
-![Komendy](./img/claim.png)
 
 # Zasady Ochotników
 Grupy Ochotników mogą uczestniczyć w wojnach tylko za zgodą Lidera głównego państwa (główny obrońca/główny agresor) po którego stronie walczą i nie może być ich więcej niż 10 na stronę konfliktu, cała lista graczy musi zostać przedstawiona administracji dzień przed planowaną wojną (jeżeli któryś się nie pojawi w dniu wojny a ktoś chce go zastąpić lider państwa musi to również zgłosić administracji i przekazać osobie która nie zdążyła że nie może uczestniczyć w walkach (inaczej może dostać karę)).
