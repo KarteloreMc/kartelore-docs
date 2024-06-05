@@ -37,8 +37,8 @@ W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta b
 :::
 
 # Sojusze i Udział w Wojnach
-Każde państwo może być obecne podczas okresów wojennych. Wszystkie państwa mogą być zaangażowane w dwa rodzaje wojny: jedną jako państwa które posiadają główny konflikt (napastnik lub obrońca) i jedną jako sojuszniczy uczestnik wojny.
-- Grupy ochotników mogą uczestniczyć w dodatkowym okresie wojennym, sprawdź zasady ochotników w celu uzyskania więcej informacji.
+Każde państwo może być obecne podczas okresów wojennych. Wszystkie państwa mogą być zaangażowane w dwa rodzaje wojny: jeden rodzaj to bycie jako państwa które posiadają główny konflikt (napastnik lub obrońca) i a drugi to jako sojuszniczy uczestnik wojny.
+- Grupy ochotników mogą uczestniczyć w wojnach, sprawdź zasady ochotników w celu uzyskania więcej informacji.
 
 # Cele Wojenne
 Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora mogą być różne np zmiana władzy w danym kraju albo zajęcie terytoriów tylko te muszą być realistyczne oraz mieć sens
@@ -61,7 +61,7 @@ Wojny historyczne mają odgórne cele które mogą być niezgodne z tymi powyże
 Jeśli obie strony się zgodzą, powyższe zasady dotyczące celów wojennych mogą być zawieszone, aby umożliwić "Wojnę Totalną", w której stawka to wszystkie obszary głównego atakującego i broniącego w wojnie.
 
 # Zasady Ochotników
-Grupy Ochotników mogą uczestniczyć w wojnach tylko za zgodą Lidera głównego państwa (główny obrońca/główny agresor) po którego stronie walczą i nie może być ich więcej niż 10 na stronę konfliktu, cała lista graczy musi zostać przedstawiona administracji dzień przed planowaną wojną (jeżeli któryś się nie pojawi w dniu wojny a ktoś chce go zastąpić lider państwa musi to również zgłosić administracji i przekazać osobie która nie zdążyła że nie może uczestniczyć w walkach (inaczej może dostać karę)).
+Grupy Ochotników mogą uczestniczyć w wojnach tylko za zgodą Lidera głównego państwa (główny obrońca/główny agresor) po którego stronie walczą i nie może być ich więcej niż 10 na stronę konfliktu, cała lista graczy którzy są ochotnikami musi zostać przedstawiona administracji dzień przed planowaną wojną (tak jak lista państw sojuszniczych)(jeżeli któryś się nie pojawi w dniu wojny a ktoś chce go zastąpić lider państwa musi to również zgłosić administracji i przekazać osobie która nie zdążyła że nie może uczestniczyć w walkach (inaczej po włączeniu się do walki może dostać karę)).
 
 :::info Informacja
 Grupę Ochotników (osoby które zamierzają dołączyć do wojny) należy podać w tickecie na dc
