@@ -47,7 +47,7 @@ Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora m
 Wojny historyczne mają odgórne 
 :::
 
-Przykład celów wojennych Francji przeciw Włochom:
+Przykład celów wojennych Francji przeciw Hiszpanii:
 ![Komendy](./img/claim.png)
 
 ## Zasady dotyczące wielkości celów wojennych
