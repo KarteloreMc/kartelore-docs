@@ -50,7 +50,7 @@ Wojny historyczne mają odgórne
 Przykład celów wojennych Francji przeciw Włochom:
 ![Komendy](./img/claim.png)
 
-## Zasady dotyczące wielkości celów wojennych: 
+## Zasady dotyczące wielkości celów wojennych
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
 :::info Informacja
