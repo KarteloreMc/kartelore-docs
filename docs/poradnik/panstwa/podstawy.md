@@ -28,3 +28,6 @@ Każda prowincja z ustalonym przychodem, co godzinę generuje surowce, które mo
 
 ## Co to jest państwo?
 W użytym przez nas pluginie państwo to związek miast. Gracze państwa mogą korzystać z zasobów innych miast państwa oraz mogą na terenie tych miast budować i niszczyć bloki. Gracze danego miasta w państwie nie mogą odbierać **income'u** innego miasta. Aby zaprosić inne miasta lub państwa do twojego państwa użyj komendy **/panstwo zapros `nazwa`**.
+
+## Zmiany nazw państw, przynależności miast do państw oraz inicjowanie innych akcji rp nie których nie da się normalnie wykonywać
+Z racji na chęć pewnego poziumu rp musimy wyłączyć możliwość zmiany np. nazw państw itd. więc aby zmienić przykładową nazwę należy pisać do administracji najlepiej na ticketach i nie wymyślać oderwanych od rzeczywistości rzeczy i powodów bo po prostu nie zostaną zaakceptowane
