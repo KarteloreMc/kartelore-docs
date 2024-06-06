@@ -2,46 +2,37 @@
 sidebar_position: 1
 title: Poradnik Małego Alkoholika
 ---
-### Brewery
-- To nie jest standardowe warzenie mikstur. Brewery skupia się całkowicie na alkoholu i dążeniu do jego przyjemności. Dodając kilka niestandardowych mikstur i mechanikę upicia, zawsze gwarantuje świetną zabawę.
-- Opanuj sztukę warzenia poprzez fermentację, destylację i dojrzewanie w beczkach różnorodnych mikstur. Doświadcz, jak z prostych składników, dzięki ciężkiej pracy i wytrwałości, powstaje pyszne piwo. Destyluj mocne trunki, które zyskują wyjątkowy smak po kilku latach dojrzewania w drewnianych beczkach. Świętuj największe uczty, jakie sobie wyobrazić możesz, i zawsze utrzymuj radosną atmosferę. Wypełniaj tawerny śmiechem i głośną muzyką, podczas gdy pijani szaleją na ulicach.
+# Brewery
+**Berwery** to plugin dodający alkohole, pijanstwo i zabawę! Dzięki niemu urozmaicisz wszystkie nudne obrady i sprawisz, że życie nabierze kolorów. Na tej edycji alkohole będą miały charakter __jedynie__ rozrywkowy, tzn. po wypiciu np. rumu nie otrzymasz efektu odporności na ogień a jedynie poziom upicia.
 
-### Opis 
-- Warz napoje alkoholowe, które faktycznie mogą sprawić, że się upijesz.
-- Napoje o niższej jakości będą miały wady, takie jak kac.
-- Proces warzenia obejmuje różne kroki, takie jak fermentacja, destylacja i dojrzewanie.
-- Udoskonalaj jakość, aż napoje staną się doskonałe.
-- Opanuj warzenie nawet najbardziej trudnych napojów.
-- Stwórz własne receptury, obejmujące składniki, właściwości i proces tworzenia.
+# Poziom upicia
+Po wypiciu dostatecznej ilości alkoholu będziesz: chodził samoczynnie na boki, pisał bzdury na chacie lub wymiotował! 
 
-### Proces 
-- Nadszedł czas na warzenie. W przeciwieństwie do standardowego Minecrafta, nie jest to takie proste, jak dodanie składnika do kociołka i czekanie, aż proces się zakończy. W zależności od receptury, proces może być trudny i czasochłonny. Niektóre przepisy wymagają precyzji zarówno w zakresie składników, jak i czasu. Jeśli nie będziesz ostrożny, partia może mieć niezamierzone skutki uboczne lub w ogóle się zepsuć.
+# Proces tworzenia alkoholu
+Jeśli chciałbyś/ałabyś rozpocząć swoją przygodę z niesamowitą z produkcją piwa, wina itd., służę z pomocą!
+## Fermentacja:
+Aby wytworzyć alkohol musimy zacząć od sfermentowania składników, w tym celu musisz:
+1. Zbudować specjalny kociołek, postaw kocioł nad rozpalonym ogniskiem (zdj. 1)
+2. Napełnić wyżej wymieniony kocioł wodą.
+3. Kliknąć (PPM) wybranymi składnikami na kociołek. (raz włożonego składnika nie da się później wyciągnąć)
+4. Odczekaj jakiś czas. (możesz sprawdzić ile wywar się gotuje za pomocą zegara)
+5. Wyjmij napój z kotła przy pomocy szklanych butelek.
 
-### Warzenie / Fermentowanie 
-## Pierwszym krokiem jest gotowanie składników.
-1. Umieść kociołek nad ogniem.
-2. Napełnij go wodą.
-3. Użyj składników na kotle, aby je dodać.
-4. Czekaj, podczas gdy się gotują, sprawdzając czas zegarem.
-5. Napełnij butelki szklane z kociołka po zakończeniu procesu gotowania.
+![Fermentacja](./img/tegotypu1.png)
 
-### Destylacja 
-- Umieść pył Glowstone w górnym slocie kociołka do warzenia jako filtr. (Nie zostanie zużyty.)
-- Umieść butelki z wodą do dolnych slotów.
+## Destylacja:
+Destylacja to proces który nie jest wymagany przy wszystkich alkoholach. Ale przy niektórych jest on bardzo ważny, aby destylować należy umieścić butelki z wywarem w dolnych slotach Brewing stand'u (Stołu alchemicznego) a jako składniku użyć Glowdust'u (Jasnopył)
+## Dojrzewanie
+Ostatnim etapem naszej przygody jest dojrzewanie, to tu alkohol nabiera smaku i koloru. Do tego będziesz potrzebował/a beczki, zrobisz ją z drewna i tabliczki, są dwa rodzaje beczek; duża i mała.
+### Mała beczka 
+Mała beczka posiada 9 miejsc na alkohol i do jej zbudowania potrzeba: 12 drewnianych schodów (tego samego rodzaju) i jednej tabliczki z napisem "barrel" (zdj. 2)
 
-### Dojrzewanie 
-- Do dojrzewania napojów niezbędne są drewniane beczki. Posiadają one miejsce na składowanie napojów podczas procesu starzenia. Istnieją dwie różne wielkości beczek, a większość receptur wymaga określonego rodzaju drewna.
-## Mała Beczka 
-1. 8 Drewnianych Schodków 
-2. 1 Tabliczka
+![Mała Beczka](./img/tegotypu2.png)
 
-![Mała Beczka](./img/barrel1.png)
+### Duża beczka
+Duża beczka ma 27 miejsc na alkohol a zawiera ona 16 drewnianych schodów (tego samego rodzaju), 18 bloków drewnianych desek (także tego samego rodzaju), jeden drewniany płotek i jedną tabliczkę z napisem "barrel" (zdj. 3)
 
-- Zbuduj kształt beczki za pomocą schodków. Następnie umieść znak na przedniej dolnej prawej stronie, wpisując "Barrel" na górnej linii. Otrzymasz potwierdzenie: "Stworzono beczkę".
-## Duża Beczka
-1. 18 Drewnianych Desek
-2. 16 Drewnianych Schodków 
-3. 5 Drewnianych Płotków
-4. 1 Tabliczka 
+![Duża Beczka](./img/tegotypu3.png)
 
-![Duża Beczka](./img/barrel2.png)
+## Proces: 
+Włóż butelkę z wywarem do beczki z danego rodzaju drewna (wielkość beczki nie ma znaczenia) i po odczekaniu wyznaczonej ilości "lat" (jeden rok to jeden dzień minecraftowy (20 minut)) wyjmij swój alkohol z beczki 
