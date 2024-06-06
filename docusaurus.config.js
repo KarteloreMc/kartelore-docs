@@ -50,7 +50,7 @@ const config = {
           position: 'left', 
         },
         {
-          href: 'https://mapa.kartelore.pl/',
+          href: 'https://mapa.kartelore.eu/',
           label: 'Dynmapa',
           position: 'left',
         },
@@ -60,7 +60,7 @@ const config = {
           position: 'left',
         },
 		{
-          href: 'https://discord.gg/kartelore',
+          href: 'https://discord.gg/set794pSFv',
           label: 'Discord',
           position: 'left',
         },
