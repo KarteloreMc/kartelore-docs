@@ -9,7 +9,6 @@ Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 <div class="box">
     <img 
     src={require('./img/gif_kartelore.gif').default}
-    align="middle"
     alt="atakowanieprowincji"
     width="544"
     />
