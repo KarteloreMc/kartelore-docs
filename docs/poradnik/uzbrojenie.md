@@ -39,7 +39,7 @@ Oprócz tego jeszcze jest Moździeż, Shotgun oraz Miotacz Ognia ale są to Poje
 - Samoloty Tieru 3
 
 :::info Informacja
-Pod Tierami Samolotów kryją się Myśliwce, CASy oraz Samoloty Transportowe.
+Pod Tierami Samolotów kryją się Myśliwce, CASy, Bombowce oraz Samoloty Transportowe.
 :::
 
 ## Ochrona Indywidualna 
