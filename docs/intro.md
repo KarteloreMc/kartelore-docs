@@ -6,7 +6,7 @@ slug: /
 # 🌍 Witamy na Dokumentacji Serwera KarteLore! 
 Znajdziesz tu wiele ważnych informacji na temat naszego serwera
 
-<div class="box" style="text-align: center;">
+<div class="box">
     <img 
     src={require('./img/gif_kartelore.gif').default}
     alt="atakowanieprowincji"
