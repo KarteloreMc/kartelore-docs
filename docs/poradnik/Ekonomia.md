@@ -2,8 +2,6 @@
 sidebar_position: 4
 title: Ekonomia
 ---
-![Ekonomia](./img/ekonomia.png)
-
 # Ekonomia
 
 Ekonomia jest jedną z najbardziej podstawowych rzeczy na serwerze, ale podczas obecnej edycji chcemy postawić aby to gracze tworzyli ją całkowicie albo w bardzo dużej mierze aby zwiększyć interakcje między nimi oraz nadać większy sens posiadania prowincji z danymi surowcami.
