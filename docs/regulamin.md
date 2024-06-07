@@ -80,11 +80,11 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 4.9. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
 
-4.10. Zakazane jest masowe atakowanie innych graczy bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
+4.10. Zakazane jest atakowanie innych graczy na ich terenie bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
 
 4.11. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
 
-4.11.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat.
+4.11.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
 
 ### Państwa i miasta:
 
