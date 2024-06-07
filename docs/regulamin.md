@@ -62,11 +62,11 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 ### Wojna:
 4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
-4.2. Zmienianie miast w czasie lub tuż przed okresem włączonych wojen w celu wsparcia, bądź osłabienia danej strony jest zakazane.
+4.2. Masowe zmienianie miast na korzyść lub osłabienie danej strony gdy jest już umówiona wojna na dany termin jest zakazane.
 
 4.3. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
 
-4.4. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. na zbyt wysokich budowlach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
+4.4. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. w jakiś głębokich dziurach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
 
 4.5. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
 

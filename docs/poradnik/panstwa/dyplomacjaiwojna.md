@@ -16,14 +16,18 @@ Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, 
 :::
 
 # Zgłoszenie Wojny
-Termin na zgłoszenie wojny to minimum jeden dzień przed dniem gdy jest planowana wojna. Aby zgłosić wojnę, musisz utworzyć zgłoszenie na naszym serwerze discord według poniższego formatu: 
+Termin na zgłoszenie wojny to minimum jeden dzień przed dniem gdy jest planowana wojna oraz do godziny 21 (zakładamy że nie zawsze ktos będzie siedział po nocach i dogadywał coś). Aby zgłosić wojnę, musisz utworzyć zgłoszenie na naszym serwerze discord według poniższego formatu: 
 - Nick: 
 - Zaangażowane państwa: 
 - Sojusznicy: 
 - Cele wojenne:
 
 :::caution Uwaga!
-Podczas zgłaszania wojen, zachowaj rozwagę, aby było to sensowne i **realistyczne**. Przykładowo Hiszpania nie może zadeklarować wojny przeciwko Rosji jeżli ta jest za daleko i nie ma realistycznych celów wojennych.
+Podczas zgłaszania wojen, zachowaj rozwagę, aby było to sensowne i **realistyczne**. Przykładowo Hiszpania nie może zadeklarować wojny przeciwko Rosji jeżli ta jest za daleko i nie ma na nią realistycznych (np. takich które mogłyby być celem realnej wojny i mogłyby być realnie przejęte) celów wojennych.
+:::
+
+:::caution Uwaga!
+Gdy nie zdążysz i napiszesz o np 23 i chciałbyś następnego dnia już mieć wojnę niestety będzie to niemożliwe i będzie to brane jakbyś próbował już następnego dnia zgłaszać wojnę a nie ten dzień wcześniej.
 :::
 
 ## Wojny Historyczne
