@@ -1,10 +1,10 @@
 {
   "index_name": "karteloredocs",
   "start_urls": [
-    "https://docs.kartelore.pl/"
+    "https://docs.kartelore.eu/"
   ],
   "sitemap_urls": [
-    "https://docs.kartelore.pl/sitemap.xml"
+    "https://docs.kartelore.eu/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [
