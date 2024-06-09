@@ -96,11 +96,11 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.4. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
 
-5.6. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
+5.5. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.6.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
+5.5.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
-5.7. Zakaz robienia "szlaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
+5.6. Zakaz robienia "szlaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
 
 
 ### Regulacje dotyczące budynków/RP:
