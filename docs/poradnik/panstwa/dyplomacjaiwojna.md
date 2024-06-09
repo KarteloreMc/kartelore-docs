@@ -44,7 +44,7 @@ W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta b
 Każde państwo może być obecne podczas okresów wojennych. Wszystkie państwa mogą być zaangażowane w dwa rodzaje wojny: jeden rodzaj to bycie jako państwa które posiadają główny konflikt (napastnik lub obrońca) i a drugi to jako sojuszniczy uczestnik wojny.
 - Grupy ochotników mogą uczestniczyć w wojnach, sprawdź zasady ochotników w celu uzyskania więcej informacji.
 
-:::coution Uwaga!
+:::caution Uwaga!
 Nie można dołączyć państwa jako sojusznika w wojnie jeżeli to nie ma oficjalnego sojuszu na poziomie serwera lub podpisało go już w trakcie pisania ticketa z prośbą o wojnę (jak wojna jest już dogadana to można zapomnieć o dołączeniu kogokolwiek)
 :::
 
