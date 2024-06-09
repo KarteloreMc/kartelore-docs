@@ -14,7 +14,7 @@ Znajdziesz tu wiele ważnych informacji na temat naszego serwera
     />
 </div>
 
-- IP: kartelore.pl (1.20.1)
+- IP: kartelore.eu (1.20.1)
 
 ## Unikalny serwer minecraft!
 KarteLore to stosunkowo nowy oraz unikalny w Polsce serwer minecraft, osadzony w latach Drugiej Wojny Światowej. Na serwerze jest niezliczenie wiele smaczków dodających klimatu Drugiej Wojny Światowej!
