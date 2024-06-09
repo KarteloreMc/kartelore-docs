@@ -72,7 +72,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 4.6. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec postawieniu flagi w czasie wojny.
 
-4.6.1. Zakazuje się rónież budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się prawie do limitu wysokości budowania itd.).
+4.6.1. Zakazuje się również budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się prawie do limitu wysokości budowania itd.).
 
 4.7. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
 
@@ -100,7 +100,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.6.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
-5.7. Zakaz robienia "szklaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
+5.7. Zakaz robienia "szlaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
 
 
 ### Regulacje dotyczące budynków/RP:
