@@ -109,9 +109,11 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na oceanie.
 
-6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy.
+6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy i pajęczyn.
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
+
+6.4. Zakaz tworzenia pułapek z których nie da się wyjść inaczej niż teleportacja na home'a lub spawna
 
 ©️ 2024 KarteLore
 
