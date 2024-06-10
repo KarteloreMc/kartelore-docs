@@ -113,7 +113,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
-6.4. Zakaz tworzenia pułapek z których nie da się wyjść inaczej niż teleportacja na home'a lub spawna lub jest to bardzo długie i trudne.
+6.4. Zakaz tworzenia pułapek z których nie da się wyjść inaczej niż teleportacja na home'a lub spawna albo wyjście jest bardzo długie i trudne.
 
 ©️ 2024 KarteLore
 
