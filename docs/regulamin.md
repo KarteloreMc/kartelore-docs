@@ -115,7 +115,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 6.4. Zakaz tworzenia pułapek z których nie da się wyjść inaczej niż teleportacja na home'a lub spawna albo zmuszająca do zabicia swojej osoby z Państwa i wystawiająca go na takie ryzyko, albo wyjście zajmuje bardzo długo lub jest trudne (np. doły z pajęczynami).
 
-6.5. Zakaz tworzenia powyżej zabroninych pułapek które ujawniają/uaktywniają się podczas działań wojennych.
+6.5. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas działań wojennych.
 
 ©️ 2024 KarteLore
 
