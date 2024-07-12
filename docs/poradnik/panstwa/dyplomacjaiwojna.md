@@ -62,7 +62,7 @@ Przykład celów wojennych Francji przeciw Hiszpanii:
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
 :::info Informacja
-Wojny historyczne mają takie cele jakie były historycznie odgórnie więc niektóre cele mogą być niezgodne z tymi powyżej
+Wojny historyczne mają takie cele jakie były historycznie odgórnie więc niektóre cele mogą być niezgodne z zasadami powyżej
 :::
 
 ## "Wojna Totalna"
