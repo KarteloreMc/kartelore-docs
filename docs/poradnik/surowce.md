@@ -5,7 +5,7 @@ title: Surowce
 
 # Surowce
 Na serwerze poza niektórymi normalnymi surowcami z podstawowego minecrafta, dodaliśmy również nasze własne materiały.
-- Wolfram - Proces pozyskiwania: Poprzez zwykłe kopanie rud Wolframu
+- Wolframit - Proces pozyskiwania: Poprzez zwykłe kopanie rud Wolframu
 - Chrom - Proces pozyskiwania: Poprzez zwykłe kopanie rud Chromu
 - Aluminium - Proces pozyskiwania: Poprzez przepalenie Boksytu
 - Boksyt - Proces pozyskiwania: Poprzez zwykłe kopanie rud Boksytu
