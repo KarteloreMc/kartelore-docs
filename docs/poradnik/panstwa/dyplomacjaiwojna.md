@@ -126,7 +126,7 @@ Są to wojny tylko w ograniczonym zakresie i jak sama nazwa wskazuje o tereny gr
 
 - Państwa mogą atakować tylko prowincje graniczące (próby przejęcia jakichkolwiek prowincji dalej bądź nie graniczących ze sobą przed startem konfliktu jest zakazane).
 - Jeżeli stolica okaże się graniczącą prowincją, ta nie może zostać przejęta.
-- **Konflikty Graniczne** mogą być okazją do tworzenia celu wojennego (Casus Belli).
+- **Konflikty Graniczne** mogą być okazją do tworzenia celu wojennego (Casus Belli) jako eskalacji konfliktu.
 
 ### Traktaty pokojowe
 - Wpisz **/pokoj `nazwa_miasta/nazwa_panstwa`** aby negocjować **traktat pokojowy**, otwiera to GUI traktatu pokojowego.
