@@ -119,7 +119,7 @@ Do wyświetlania ogólnych informacji o portach.
 - /terytorium `id`: Wyświetla informacje o terytorium.
 
 :::caution Uwaga!
-W razie problemów z polskim odpowiednikiem zalecamy spróbowanie angielskiej wersji komendy.
+W razie problemów z komendami po polsku (przynajmniej tych od nodesa) zalecamy spróbowanie angielskiej wersji komendy.
 :::
 
 # English version of commands
