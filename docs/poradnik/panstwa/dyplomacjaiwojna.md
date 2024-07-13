@@ -58,7 +58,7 @@ Wojny historyczne mają odgórne
 Przykład celów wojennych Francji przeciw Hiszpanii:
 ![Komendy](./img/claim.png)
 
-## Zasady dotyczące aneksji celów wojennych
+## Zasady dotyczące aneksji podbitych prowincji
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
 :::info Informacja
