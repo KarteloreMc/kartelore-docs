@@ -58,6 +58,15 @@ Wojny historyczne mają odgórne
 Przykład celów wojennych Francji przeciw Hiszpanii:
 ![Komendy](./img/claim.png)
 
+### Aneksja
+Aneksja jest mocno zalecana.
+- Miasto okupujące prowincję może ją zaanektować poprzez komendę **/miasto aneksja**.
+- Anektowanie dodaje prowincje do twojego miasta, jako normalną zajętą prowincje.
+
+:::info Informacja
+Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miasto, tzn. możesz na niej budować, używać skrzynek, itd...
+:::
+
 ## Zasady dotyczące aneksji podbitych prowincji
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
@@ -110,15 +119,6 @@ Przychód z okupownych prowincji wynosi 50% podstawowego zysku prowincji.
 :::
 :::caution Uwaga!
 Okupowane prowincje nie są częścią miasta okupanta. Na okupowanych prowincjach obie strony mogą niszczyć i stawiać bloki lub otwierać skrzynki.
-:::
-
-### Aneksja
-Aneksja jest mocno zalecana.
-- Miasto okupujące prowincję może ją zaanektować poprzez komendę **/miasto aneksja**.
-- Anektowanie dodaje prowincje do twojego miasta, jako normalną zajętą prowincje.
-
-:::info Informacja
-Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miasto, tzn. możesz na niej budować, używać skrzynek, itd...
 :::
 
 ### Konflikty Graniczne
