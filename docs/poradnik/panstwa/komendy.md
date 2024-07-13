@@ -15,7 +15,7 @@ Te ustawienia zmieniają twój **kanał czatu**, tzn. kiedy piszesz na czacie, t
 - /czatpanstwa (lub /nc): Tylko gracze w twoim państwie widzą wiadomości.
 - /czatsojuszu (lub /ac): Tylko gracze z sojuszu państwa bądź miasta$ widzą wiadomości.
 
-### /miasto (lub /t)
+### /miasto
 Służy do zarządzania miastem gracza.
 
 - /miasto: Wyświetla komendy związane z miastem.
@@ -49,7 +49,7 @@ Służy do zarządzania miastem gracza.
 - /miasto stolica: Przesuwa stolice prowincji do miejsca w którym się znajdujesz (zmienia to też lokalizacje spawnu miasta).
 - /miasto aneksja: Anektuje okupowaną prowincje i dodaje je do twojego miasta.
 
-### /panstwo (lub /n)
+### /panstwo
 Do zarządzania państwem gracza.
 
 - /panstwo usun: Usuwa państwo (tylko dla lidera stolicy państwa)
@@ -63,25 +63,25 @@ Do zarządzania państwem gracza.
 - /panstwo info `państwo`: Sprawdza informacje państwa.
 - /panstwo spawn `miasto`: Teleportuje się do miasta w państwie. Może to kosztować przedmioty.
 
-### /sojusz `nazwa`
+### /sojusz
 Zaoferuj/akceptuj sojusze z innymi miastami lub państwami.
 
 - /sojusz `miasto`: zaoferuj/akceptuj sojusz z innym miastem.
 - /sojusz `państwo`: zaoferuj/akceptuj sojusz z innym państwem.
 
-### /rozwiazsojusz `nazwa`
+### /rozwiazsojusz
 Rozwiązuje sojusz z  miastem bądź państwem. Miasta wchodzą wtedy w okres rozejmu.
 
 - /rozwiazsojusz `miasto`: Rozwiąż sojusz miastem.
 - /rozwiazsojusz `państwo`: Rozwiąż sojusz państwem.
 
-### /wojna `nazwa`
+### /wojna
 Wypowiada wojnę innym miastom lub państwom.
 
 - /wojna `miasto`: Wypowiada wojne miastu.
 - /wojna `państwo`: Wypowiada wojne państwu.
 
-### /pokoj `nazwa`
+### /pokoj
 Otwiera okno traktatu pokojowego z innym państwem bądź miastem.
 
 - /pokoj `miasto`: Negocjuje traktat pokojowy z innym miastem.
@@ -92,7 +92,7 @@ Wyświetla trwające rozejmy miasta z innymi miastami.
 
 - /rozejm `miasto`: Wyświetla trwające rozejmy innego miasta.
 
-### /nodess (lub /nd)
+### /nodess
 Do wyświetlania ogólnych informacji w Europie (prowincje z zasobami, prowincje, miasta, państwa, gracze).
 
 - /nodess pomoc: Wyświetla listę wszystkich komend.
