@@ -47,5 +47,5 @@ Aby przenieść pojazd należy kliknać lewym przyciskiem, i wtedy wypadnie on w
 :::
 
 :::caution Uwaga!
-PALIWO WYPADNIE W FORMIE ITEMU, ALE AMUNICJA ZOSTANIE USUNIĘTA.
+JEŚLI PODNIESIESZ POJAZD PALIWO WYPADNIE W FORMIE ITEMU, ALE AMUNICJA ZOSTANIE USUNIĘTA.
 :::
