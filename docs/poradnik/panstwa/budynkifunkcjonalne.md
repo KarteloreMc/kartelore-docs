@@ -53,3 +53,40 @@ Domyślnie szybka podróż w porcie jest darmowa i odbywa się poprzez użycie k
 Szyby naftowe to budynki które zwiększają zyski ropy z prowincji na której jest ropa i zarazem tylko na takich mogą być budowane.
 
 - Każdy szyb naftowy przynosi zysk 2 jednostek ropy.
+
+## Huta
+Huta to budynek służący przetapianiu niektórych metali dostępnych na serwerze, można z niej korzystać tylko na prowincji na której ta się znajduje!
+
+- Huta pozwala na tworzenie Stali oraz Aluminium.
+
+## Tkalnia
+Tkalnia, miejsce w którym tworzy się tkaniny potrzebne do mundurów i ubrań cywilnych, dają one jakąkolwiek ochronę stąd są tak ważne, a korzystać z nich można tlyko na prowincjach na których się znajdują.
+
+- Tkalnia pozwala na tworzenie Tkanin.
+
+## Rafineria Gumy
+Rafineria ta pozwala na tworzenie gumy z kauczuku oraz jej syntetycznych odpowiedników z ropy. Korzystać z niej można tylko na prowincji na której się znajduje.
+
+- Rafineria Gumy umożliwia tworzenie Gumy z kauczuku lub ropy.
+
+## Fabryka Materiałów Budowlanych
+W tej fabryce odbywa się tworzenie wszelkich niestandardowych jak na minecraft bloków nadających immersji drugowojennej rozgrywce. Korzystać z niej można tylko na prowincji na której się znajduje. 
+
+### W Fbryce Materiałów Budowlanych można tworzyć:
+
+- Marmur - 2 diorytu, 2 bruku tworzy 4 Bloki Marmuru
+- Wapń - 2 piasku, 2 bruku tworzy 4 Bloki Wapnia
+- Asfalt - 4 ropy, 4 żwiru tworzy 8 Bloków Asfaltu
+- Marmurowe Cegły - 4 marmuru tworzy 4 Bloki Marmurowych Cegieł
+- Azbest - 4 granitu, 2 krzemu, 2 boxytu tworzy 8 Bloów Azbestu
+- Eternit - 5 azbestu, 2 piasku, 2 żwiru tworzy 8 Bloków Eternitu
+
+## Młyn Kulkowy
+Młyn Kulkowy, niewielu osobom znana rzecz aczkolwiek praktyczna, za jego pomocą można odzyskać trochę surowców kosztem mało przydatnych i często zalegających blokach kamieniopodobnych. Korzystać można tylko na prowincji na której się znajduje.
+
+- Młyn Kulkowy przerabia stack (64) graniutu/andezytu/żwiru,diorytu na 1 sztukę żelaza, wolframu, chromu oraz boxytu
+
+## Rafineria Ropy
+W budynku zwanym Rafinerią Ropy można zarówno otrzymywać paliwo z ropy jak i samą syntetyczną ropę jeżeli zwykłej brak. Korzystać z niej można tylko na prowincji na której się znajduje.
+
+- Rafineria Ropy umożliwia tworzenie Paliwa z ropy oraz ropy z węgla
