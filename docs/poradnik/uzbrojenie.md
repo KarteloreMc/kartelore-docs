@@ -34,17 +34,18 @@ Oprócz tego jeszcze jest Moździeż, Shotgun oraz Miotacz Ognia ale są to Poje
 - Czołgi Lekkkie
 - Czołgi Średnie
 - Czołgi Ciężkie 
-- Samoloty Tieru 1 
-- Samoloty Tieru 2
-- Samoloty Tieru 3
-
-:::info Informacja
-Pod Tierami Samolotów kryją się Myśliwce, CASy, Bombowce oraz Samoloty Transportowe.
-:::
+- Myśliwce Tieru 1 
+- Myśliwce Tieru 2
+- Myśliwce Tieru 3
+- Casy Tieru 1 
+- Casy Tieru 2
+- Casy Tieru 3
+- Bombowce
+- Samoloty Transportowe
 
 ## Ochrona Indywidualna 
 
-Przed  obrażeniami w bezpośrednim starciu chronić nas będzie niewiele rzeczy ale jednak nadal coś, a będą to:
+Przed obrażeniami w bezpośrednim starciu chronić nas będzie niewiele rzeczy ale jednak nadal coś, a będą to:
 
 - Hełmy
 - Mundury
