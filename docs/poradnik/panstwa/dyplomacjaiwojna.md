@@ -31,7 +31,7 @@ Gdy nie zdążysz i napiszesz o np 23 i chciałbyś następnego dnia już mieć 
 :::
 
 ## Wojny Historyczne
-Wojny historyczne jak sama nazwa wskazuje to takie które się wydarzyły, są one odgórnie ustalone (dokładna rozpiska na naszym DC) dlatego każdy kto takiej nie chce prowadzić a historycznie w niej uczestniczył musi się zgłosić do administracji i przedstawić bezpodstawność takiej wojny (np. historyczne cele o które walczono są nieaktualne czyli kraj nie posiada terenów o które walczono, kraje które miałyby walczyć mają sojusz itd. (tu akurat wasza kreatywność jest nieograniczona))
+Wojny historyczne jak sama nazwa wskazuje to takie które się wydarzyły, są one odgórnie ustalone (dokładna rozpiska na naszym DC) dlatego każdy kto takiej nie chce prowadzić a historycznie w niej uczestniczył musi się zgłosić do administracji i przedstawić bezpodstawność takiej wojny (np. historyczne cele o które walczono są nieaktualne czyli kraj nie posiada terenów o które walczono, kraje które miałyby walczyć mają sojusz itd. (tu akurat wasza kreatywność jest nieograniczona)).
 
 # Okresy Wojny
 Czas na toczenie wojen jest codziennie w godzinach od 17:00 do 22:00 
@@ -45,14 +45,14 @@ Każde państwo może być obecne podczas okresów wojennych. Wszystkie państwa
 - Grupy ochotników mogą uczestniczyć w wojnach, sprawdź zasady ochotników w celu uzyskania więcej informacji.
 
 :::caution Uwaga!
-Nie można dołączyć państwa jako sojusznika w wojnie jeżeli to nie ma oficjalnego sojuszu na poziomie serwera lub podpisało go już w trakcie pisania ticketa z prośbą o wojnę (jak wojna jest już wpisana w oficjalną rozpiskę wojen to można zapomnieć o dołączeniu kogokolwiek)
+Nie można dołączyć państwa jako sojusznika w wojnie jeżeli to nie ma oficjalnego sojuszu na poziomie serwera lub podpisało go już w trakcie pisania ticketa z prośbą o wojnę (jak wojna jest już wpisana w oficjalną rozpiskę wojen to można zapomnieć o dołączeniu kogokolwiek).
 :::
 
 # Cele Wojenne
-Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora mogą być różne np zmiana władzy w danym kraju albo zajęcie terytoriów tylko te muszą być realistyczne oraz mieć sens
+Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, cele mogą być różne np. zmiana władzy w danym kraju albo zajęcie terytoriów itd. tyle że te muszą być realistyczne oraz mieć sens.
 
 :::info Informacja
-Wojny historyczne mają odgórne 
+Wojny historyczne mają odgórne cele wojene i tak np Niemcy mogą zaanektować tylko północ Francji w historycznej wojnie z Francją.
 :::
 
 Przykład celów wojennych Francji przeciw Hiszpanii:
@@ -71,7 +71,7 @@ Anektowana prowincja działa jak każda inna zajęta prowincja przez twoje miast
 Liczba anektowanych prowincji będzie zależała od wielkości państwa. Państwa posiadające 30+ obszarów może utracić do połowy swoich obszarów w wyniku wojny. Państwa posiadające od 10 do 29 obszarów mogą stracić do jednej trzeciej swoich obszarów w wyniku wojny. Państwa posiadające mniej niż 10 prowincji może być zaanektowne w całości.
 
 :::info Informacja
-Wojny historyczne mają takie cele jakie były historycznie odgórnie więc niektóre cele mogą być niezgodne z zasadami powyżej
+Wojny historyczne mają takie cele jakie były historycznie odgórnie więc niektóre cele mogą być niezgodne z zasadami powyżej.
 :::
 
 ## "Wojna Totalna"
