@@ -85,7 +85,7 @@ Grupę Ochotników (osoby które zamierzają dołączyć do wojny) należy poda�
 :::
 
 # Bunt
-Jeśli miastu nie pasują rządy pod którymi są i nie jest ono stolicą, ma opcję buntu (w przypadku braku drugiego miasta w państwie, a będzie chęć buntu zostanie stworzone nowe miasto (na jednej prowincji do wyboru (nie może być to stolica)) i przywódcą buntu będzie oczywiście osoba zgłaszająca owy bunt). Bunt podlega tym samym zasadom, co deklaracje wojenne pod względem terminów oprócz tego że cele to Wojna Totalna. Buntujące się narody mogą mieć tylko jednego sojusznika (ilość ochotników bez zmian), który wspiera ich niepodległość bezpośrednio poprzez wojnę.
+Jeśli miastu nie pasują rządy pod którymi są i nie jest ono stolicą, ma opcję buntu (w przypadku braku drugiego miasta w państwie, a będzie chęć buntu zostanie stworzone nowe miasto (na jednej prowincji do wyboru (nie może być to stolica)) i przywódcą buntu będzie oczywiście osoba zgłaszająca owy bunt). Bunt podlega tym samym zasadom, co deklaracje wojenne pod względem terminów oprócz tego że cele to Wojna Totalna. Buntujące się państwa mogą mieć tylko jednego sojusznika (ilość ochotników bez zmian), który wspiera ich niepodległość bezpośrednio poprzez wojnę.
 
 ### Atakowanie prowincji
 Aby zaatakować prowincje stawiamy **netherytowy płotek** na chunku (płotek ma imitować "flagę"). 
