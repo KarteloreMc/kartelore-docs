@@ -49,7 +49,7 @@ Nie można dołączyć państwa jako sojusznika w wojnie jeżeli to nie ma oficj
 :::
 
 # Cele Wojenne
-Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, cele mogą być różne np. zmiana władzy w danym kraju albo zajęcie terytoriów itd. tyle że te muszą być realistyczne oraz mieć sens.
+Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, cele mogą być różne np. zmiana władzy w danym kraju albo zajęcie terytoriów itd. tyle że te muszą być realistyczne oraz mieć sens, ale jest to raczej rzecz symboliczna do której nie przykładamy wagi (oprócz celów wojennych o zajęcie terytoriów bo te może być traktowane jako Ultimatum które przeciwnik może zaakcpetorwać oddając tereny bez walki).
 
 :::info Informacja
 Wojny historyczne mają odgórne cele wojene i tak np Niemcy mogą zaanektować tylko północ Francji w historycznej wojnie z Francją.
