@@ -72,13 +72,13 @@ Rafineria ta pozwala na tworzenie gumy z kauczuku oraz jej syntetycznych odpowie
 ## Fabryka Materiałów Budowlanych
 W tej fabryce odbywa się tworzenie wszelkich niestandardowych jak na minecraft bloków nadających immersji drugowojennej rozgrywce. Korzystać z niej można tylko na prowincji na której się znajduje. 
 
-### W Fbryce Materiałów Budowlanych można tworzyć:
+### W Fabryce Materiałów Budowlanych można tworzyć:
 
 - Marmur - 2 diorytu, 2 bruku tworzy 4 Bloki Marmuru
 - Wapń - 2 piasku, 2 bruku tworzy 4 Bloki Wapnia
 - Asfalt - 4 ropy, 4 żwiru tworzy 8 Bloków Asfaltu
 - Marmurowe Cegły - 4 marmuru tworzy 4 Bloki Marmurowych Cegieł
-- Azbest - 4 granitu, 2 krzemu, 2 boxytu tworzy 8 Bloów Azbestu
+- Azbest - 4 granitu, 2 krzemu, 2 boxytu tworzy 8 Bloków Azbestu
 - Eternit - 5 azbestu, 2 piasku, 2 żwiru tworzy 8 Bloków Eternitu
 
 ## Młyn Kulkowy
