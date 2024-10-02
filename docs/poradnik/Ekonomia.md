@@ -11,6 +11,7 @@ Ekonomia jest jedną z najbardziej podstawowych rzeczy na serwerze, ale podczas 
 - Przejmuj majątki innych graczy podczas wojen.
 - Wyznaczaj reparacje wojenne po wygranych wojnach.
 - Pozyskuj podatki z tierów miast.
+- Wymieniaj Złoto w Banku Światowym na Dolary
 
 ## Dlaczego ekonomia zbudowana na graczach?
 
