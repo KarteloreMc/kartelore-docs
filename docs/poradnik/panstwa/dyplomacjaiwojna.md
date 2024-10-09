@@ -75,7 +75,7 @@ Wojny historyczne mają takie cele jakie były historycznie odgórnie więc niek
 :::
 
 ## "Wojna Totalna"
-Jeśli obie strony się zgodzą, powyższe zasady dotyczące celów wojennych mogą być zawieszone, aby umożliwić "Wojnę Totalną", w której stawka to wszystkie obszary głównego atakującego i broniącego w wojnie.
+Jeśli obie strony się zgodzą, powyższe zasady dotyczące celów wojennych oraz aneksji terenów mogą być zawieszone, aby umożliwić "Wojnę Totalną", w której stawka to wszystkie obszary głównego atakującego i broniącego w wojnie.
 
 # Zasady Ochotników
 Grupy Ochotników mogą uczestniczyć w wojnach tylko za zgodą Lidera głównego państwa (główny obrońca/główny agresor) po którego stronie walczą i nie może być ich więcej niż 10 na stronę konfliktu, cała lista graczy którzy są ochotnikami musi zostać przedstawiona administracji dzień przed planowaną wojną (tak jak lista państw sojuszniczych)(jeżeli któryś się nie pojawi w dniu wojny a ktoś chce go zastąpić lider państwa musi to również zgłosić administracji i przekazać osobie która nie zdążyła że nie może uczestniczyć w walkach (inaczej po włączeniu się do walki może dostać karę)).
