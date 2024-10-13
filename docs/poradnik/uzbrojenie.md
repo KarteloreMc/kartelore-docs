@@ -41,7 +41,6 @@ Oprócz tego jeszcze jest Moździeż, Shotgun oraz Miotacz Ognia ale są to Poje
 - Casy Tieru 2
 - Casy Tieru 3
 - Bombowce
-- Samoloty Transportowe
 
 ## Ochrona Indywidualna 
 
