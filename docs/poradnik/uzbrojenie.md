@@ -13,6 +13,7 @@ title: Uzbrojenie
 - Karabiny tieru 1
 - Karabiny tieru 2
 - Karabiny tieru 3
+- Ciężkie Karabiny Maszynowe (CKM)
 - Pistolety
 - Karabiny PPANC
 - Lekkie Bronie PPANC
@@ -24,9 +25,9 @@ Oprócz tego jeszcze jest Moździeż, Shotgun oraz Miotacz Ognia ale są to Poje
 
 ### Stanowiska ogniowe/Broń Stacjonarna
 
-- Ciężkie Karabiny Maszynowe (CKM)
 - Altyleria
 - Działa Przeciwpancerne
+- Dziła Przeciwlotnicze
 
 ### Pojazdy
 
