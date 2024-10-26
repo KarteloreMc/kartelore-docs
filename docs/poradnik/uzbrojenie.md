@@ -20,14 +20,15 @@ title: Uzbrojenie
 - Granaty
 
 :::info Informacja
-Oprócz tego jeszcze jest Moździeż, Shotgun oraz Miotacz Ognia ale są to Pojedyńcze modele a nie cała kategoria.
+Oprócz tego jeszcze jest Shotgun oraz Miotacz Ognia ale są to Pojedyńcze modele a nie cała kategoria.
 :::
 
 ### Stanowiska ogniowe/Broń Stacjonarna
 
 - Altyleria
-- Działa Przeciwpancerne
-- Dziła Przeciwlotnicze
+- Działa PPANC
+- Działa PLOT
+- Moździeż
 
 ### Pojazdy
 
