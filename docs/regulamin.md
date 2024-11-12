@@ -62,39 +62,37 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 ### Wojna:
 4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
-4.2. Masowe zmienianie miast na korzyść lub osłabienie danej strony gdy jest już umówiona wojna na dany termin jest zakazane.
+4.2. Masowe zmienianie miast przez graczy na korzyść lub osłabienie danej strony gdy jest już umówiona wojna jest zakazane.
 
 4.3. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
 
 4.4. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. w jakiś głębokich dziurach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
 
-4.5. Zakaz podkradania i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
+4.5. Zakaz podkradania się i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
 
 4.6. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec postawieniu flagi w czasie wojny.
 
-4.6.1. Zakazuje się również budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się prawie do limitu wysokości budowania itd.).
+4.6.1. Zakazuje się również budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się celowo do limitu wysokości budowania w grze itd.).
 
 4.7. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
 
-4.7.1. W przypadku ponoszenia porażki w wojnie od jednego państwa zakazane jest szybkie poddawanie się drugiemu państwu w celu uniknięcia przegranej.
+4.8. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
 
-4.9. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
+4.9. Zakazane jest atakowanie innych graczy na terenie jakiegoś państwa bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
 
-4.10. Zakazane jest atakowanie innych graczy na ich terenie bez wypowiedzenia wojny. Jest to wtedy uznawane za naruszenie punktu 1.8.
+4.10. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
 
-4.11. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
-
-4.11.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
+4.10.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
 
 ### Państwa i miasta:
 
 5.1. Opuszczenie/Przystąpienie do państwa w celu kradzieży przedmiotów jest zakazane.
 
-5.2. Buntowanie się (tj. niszczenie/kradnięcie/zdradzanie) bez oficjalnego ogłoszenia wojny i opuszczenie swojego państwa jest zakazane.
+5.2. Buntowanie się (tj. niszczenie/kradnięcie/zdradzanie) bez oficjalnego wyzwolenia się (należy pisać do administracji aby ci ogarneli rewolucjonistom państwo) .
 
 5.3. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
 
-5.4. Zakaz dodawania emoji do nazwy państwa/miasta (wymówki pokroju przypadkowego dodania nie będą uznawane).
+5.4. Zakaz dodawania emoji do nazwy państwa/miasta.
 
 5.5. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
 
@@ -105,17 +103,17 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 ### Regulacje dotyczące budynków/RP:
 
-6.1. Budynki funkcjonalne oraz wszystkie inne budynki muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie okres drugiej wojny światowej).
+6.1. Budynki funkcjonalne muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie okres drugiej wojny światowej).
 
-6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na oceanie.
+6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na morzach i oceanach (neutralnych).
 
 6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy i pajęczyn.
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
-6.4. Zakaz tworzenia pułapek z których nie da się wyjść inaczej niż teleportacja na home'a lub spawna albo zmuszająca do zabicia swojej osoby z Państwa i wystawiająca go na takie ryzyko, albo wyjście zajmuje bardzo długo lub jest trudne (np. doły z pajęczynami).
+6.4. Zakaz tworzenia pułapek zawierających pajęczyny/lawę lub zmuszająca do zabicia swojej osoby z Państwa.
 
-6.5. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań wojennych.
+6.4.1. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań(nia) wojennych(ne).
 
 ©️ 2024 KarteLore
 
