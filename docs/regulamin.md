@@ -84,6 +84,8 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 4.10.1. Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
 
+4.11. Zakaz zalewania skrzynek wodą aby te były niemożliwe do zniszczenia przez wybuchy od np. dział altyleryjskich.
+
 ### Państwa i miasta:
 
 5.1. Opuszczenie/Przystąpienie do państwa w celu kradzieży przedmiotów jest zakazane.
