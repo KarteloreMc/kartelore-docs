@@ -49,7 +49,7 @@ Nie można dołączyć państwa jako sojusznika w wojnie jeżeli to nie ma oficj
 :::
 
 # Cele Wojenne
-Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, cele mogą być różne np. zmiana władzy w danym kraju albo zajęcie terytoriów itd. tyle że te muszą być realistyczne oraz mieć sens, ale jest to raczej rzecz symboliczna do której nie przykładamy wagi (oprócz celów wojennych o zajęcie terytoriów bo te może być traktowane jako Ultimatum które przeciwnik może zaakcpetorwać oddając tereny bez walki).
+Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, cele mogą być różne np. zmiana władzy w danym kraju albo zajęcie terytoriów itd. tyle że te muszą być realistyczne oraz mieć sens, ale jest to raczej rzecz symboliczna do której nie przykładamy wagi (oprócz celów wojennych o zajęcie terytoriów bo te są traktowane jako Ultimatum które przeciwnik może zaakcpetorwać oddając tereny bez walki).
 
 :::info Informacja
 Wojny historyczne mają odgórne cele wojene i tak np Niemcy mogą zaanektować tylko północ Francji w historycznej wojnie z Francją.
@@ -85,7 +85,7 @@ Grupę Ochotników (osoby które zamierzają dołączyć do wojny) należy poda�
 :::
 
 # Bunt
-Jeśli miastu nie pasują rządy pod którymi są i nie jest ono stolicą, ma opcję buntu (w przypadku braku drugiego miasta w państwie, a będzie chęć buntu zostanie stworzone nowe miasto (na jednej prowincji do wyboru (nie może być to stolica)) i przywódcą buntu będzie oczywiście osoba zgłaszająca owy bunt). Bunt podlega tym samym zasadom, co deklaracje wojenne pod względem terminów oprócz tego że cele to Wojna Totalna. Buntujące się państwa mogą mieć tylko jednego sojusznika (ilość ochotników bez zmian), który wspiera ich niepodległość bezpośrednio poprzez wojnę.
+Jeśli miastu nie pasują rządy pod którymi są i nie jest ono stolicą, ma opcję buntu (w przypadku braku drugiego miasta w państwie, a będzie chęć buntu zostanie stworzone nowe miasto (na jednej prowincji do wyboru (nie może być to stolica)) i przywódcą buntu będzie oczywiście osoba zgłaszająca owy bunt). Bunt podlega podobnym zasadom co zwykłe wojny tyle że wojna pomiędzy buntownikami a państwem zacznie się minimum po jednym dniu przerwy od wyzwolenia się na jednej prowincji, oraz będzie to Wojna Totalna.
 
 ### Atakowanie prowincji
 Aby zaatakować prowincje stawiamy **netherytowy płotek** na chunku (płotek ma imitować "flagę"). 
@@ -136,7 +136,7 @@ Są to wojny tylko w ograniczonym zakresie i jak sama nazwa wskazuje o tereny gr
 	- Wpisz **/rozejm** aby zobaczyć trwające rozejmy z innymi miastami.
 
 ::caution Uwaga!
-Menu traktatów pokojowych nie akceptuje niestandardowych przedmiotów, zatem płacone dukaty muszą zostać przekazane poprzez wyrzucenie lub poprzez komendę **/trade**.
+Menu traktatów pokojowych nie akceptuje niestandardowych przedmiotów.
 ::
 
 	
