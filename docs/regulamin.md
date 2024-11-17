@@ -59,6 +59,8 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 3.5. Użycie botów w jakiejkolwiek formie jest całkowicie zakazane.
 
+3.6. Zakaz ustawiania homów na czyimś terenie (jeżeli straciłęś swój teren to pamiętaj przestawić go gdy tylko będziesz mógł aby oszczędzić sobie robienia ticketów)
+
 ### Wojna:
 4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
