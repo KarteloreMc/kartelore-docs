@@ -74,12 +74,12 @@ W tej fabryce odbywa się tworzenie wszelkich niestandardowych jak na minecraft 
 
 ### W Fabryce Materiałów Budowlanych można tworzyć:
 
-- Marmur - 2 diorytu, 2 bruku tworzy 4 Bloki Marmuru
-- Wapń - 2 piasku, 2 bruku tworzy 4 Bloki Wapnia
-- Asfalt - 4 ropy, 4 żwiru tworzy 8 Bloków Asfaltu
-- Marmurowe Cegły - 4 marmuru tworzy 4 Bloki Marmurowych Cegieł
-- Azbest - 4 granitu, 2 krzemu, 2 boxytu tworzy 8 Bloków Azbestu
-- Eternit - 5 azbestu, 2 piasku, 2 żwiru tworzy 8 Bloków Eternitu
+- Marmur - 2 diorytu, 2 bruku tworzy 8 Bloki Marmuru
+- Wapń - 2 piasku, 2 bruku tworzy 8 Bloki Wapnia
+- Asfalt - 4 ropy, 4 żwiru tworzy 16 Bloków Asfaltu
+- Marmurowe Cegły - 4 marmuru tworzy 8 Bloki Marmurowych Cegieł
+- Azbest - 4 granitu, 2 krzemu, 2 boxytu tworzy 16 Bloków Azbestu
+- Eternit - 5 azbestu, 2 piasku, 2 żwiru tworzy 16 Bloków Eternitu
 
 ## Młyn Kulkowy
 Młyn Kulkowy, niewielu osobom znana rzecz aczkolwiek praktyczna, za jego pomocą można odzyskać trochę surowców kosztem mało przydatnych i często zalegających blokach kamieniopodobnych. Korzystać można tylko na prowincji na której się znajduje.
