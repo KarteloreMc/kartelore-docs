@@ -55,9 +55,6 @@ Cele wojenne jak i sama wojna muszą być zgłaszane przez głównego agresora, 
 Wojny historyczne mają odgórne cele wojene i tak np Niemcy mogą zaanektować tylko północ Francji w historycznej wojnie z Francją.
 :::
 
-Przykład celów wojennych Francji przeciw Hiszpanii:
-![Komendy](./img/claim.png)
-
 # Zasady przegrania wojny
 Jeżeli 2 państwa walcząc nie chcą podpisać pokoju pomimo widocznej przegranej jednej ze stron (ważne prowincje zostąły utracone, prowincje z budowalmi, stolica itd.) należy zgłosić to administracji aby ta zakończyła wojnę bezwarunkową kapitulacją strony przegrywającej (oczywiście po sprawdzeniu, przegadaniu tego itd.).
 Po uznaniu jednego z państw za przegrane strona wygrana poprzez administrację składa rządanie co chce (np. jakie prowincje mają zostać do nich przyłączone (wedle zasad aneksji które można znaleźć niżej))
