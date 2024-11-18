@@ -34,7 +34,7 @@ Gdy nie zdążysz i napiszesz o np 23 i chciałbyś następnego dnia już mieć 
 Wojny historyczne jak sama nazwa wskazuje to takie które się wydarzyły, są one odgórnie ustalone (dokładna rozpiska na naszym DC) dlatego każdy kto takiej nie chce prowadzić a historycznie w niej uczestniczył musi się zgłosić do administracji i przedstawić bezpodstawność takiej wojny (np. historyczne cele o które walczono są nieaktualne czyli kraj nie posiada terenów o które walczono, kraje które miałyby walczyć mają sojusz itd. (tu akurat wasza kreatywność jest nieograniczona)).
 
 # Okresy Wojny
-Czas na toczenie wojen jest codziennie w godzinach od 17:00 do 22:00 
+Czas na toczenie wojen jest w weekendy w godzinach od 17:00 do 22:00 
 
 :::info Informacja
 W przypadku przerwania wojny, poprzez zakończenie czasu wojen na serwerze, ta będzie kontynuowana w kolejnym dniu albo należy podpisać ze sobą pokój.
