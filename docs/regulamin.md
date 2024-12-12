@@ -113,7 +113,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
-6.4. Zakaz tworzenia pułapek zawierających pajęczyny/lawę lub zmuszająca do zabicia swojej osoby z Państwa.
+6.4. Zakaz tworzenia pułapek zawierających pajęczyny/lawę.
 
 6.4.1. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań(nia) wojennych(ne).
 
