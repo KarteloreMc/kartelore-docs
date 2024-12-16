@@ -28,21 +28,24 @@ sidebar_position: 2
 1.11. Zakazuje się "griefingu" czyli psucia krajobrazu, niszczenia terenu na większą skalę albo robienia ekstremalnych zniszczeń terenu w obszarach niezajętych przez gracza.
 
 ### Wykorzystywanie błędów:
-2.1. Zakaz wykorzystywania duplikowania lub nielegalnego generowania przedmiotów lub zasobów.
 
-2.2. Zakaz nadużywania, bądź wykorzystywania niezamierzonych funkcji gry lub pluginów serwera.
+2.1. Zakaz wykorzystywania błędów i niezamierzonych funkcji serwera.
 
-2.3. Zakaz wykorzystywania lub próbowania wykorzystania błędów w celu zawieszania lub spowalniania działania serwera (karą za taki czyn jest zawsze pernamentny ban).
+2.2. Zakaz wykorzystywania duplikowania lub nielegalnego generowania przedmiotów lub zasobów.
 
-2.4. Zakaz wykorzystywania dowolnego błędu lub niezamierzonej mechaniki gry w celu teleportacji lub omijania ograniczeń czasowych podróży (np. portów lub spawnu miasta).
+2.3. Zakaz nadużywania, bądź wykorzystywania niezamierzonych funkcji gry lub pluginów serwera.
 
-2.5. Niezgłaszanie odkrytych błędów, niezamierzonych funkcji lub innych błędów, które dają przewagę, może skutkować wysokimi karami.
+2.4. Zakaz wykorzystywania lub próbowania wykorzystania błędów w celu zawieszania lub spowalniania działania serwera (karą za taki czyn jest zawsze pernamentny ban).
 
-2.6. Celowe zgłaszanie jednego błędu przez zmówioną grupę graczy może zostać uznane za przeszkadzanie administracji serwera.
+2.5. Zakaz wykorzystywania dowolnego błędu lub niezamierzonej mechaniki gry w celu teleportacji lub omijania ograniczeń czasowych podróży (np. portów lub spawnu miasta).
 
-2.7. Zakazane jest omijanie AFK.
+2.6. Niezgłaszanie odkrytych błędów, niezamierzonych funkcji lub innych błędów, które dają przewagę, może skutkować wysokimi karami.
 
-2.8. Zakaz "griefowania" z użyciem błędów pluginów.
+2.7. Celowe zgłaszanie jednego błędu przez zmówioną grupę graczy może zostać uznane za przeszkadzanie administracji serwera.
+
+2.8. Zakazane jest omijanie AFK.
+
+2.9. Zakaz "griefowania" z użyciem błędów pluginów.
 
 :::info Informacja
 Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli istotne mogą zostać nagrodzone według uznania przez członka administracji wyższego szczebla.
