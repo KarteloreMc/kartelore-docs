@@ -101,9 +101,6 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.5.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
-5.6. Zakaz robienia "szlaczków" na mapie (chodzi o celowe zajmowanie np. po konkretną prowincje oddaloną od obecnych terenów w praktycznie prostej lini przecinającej sporą część mapy a zostawienie "niepotrzebnych" okolic).
-
-
 ### Regulacje dotyczące budynków/RP:
 
 6.1. Budynki funkcjonalne muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie okres drugiej wojny światowej).
