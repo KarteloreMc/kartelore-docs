@@ -16,7 +16,7 @@ Miasta mogą tworzyć sojusze bez państwa. Kiedy miasto dołącza do państwa, 
 :::
 
 # Zgłoszenie Wojny
-Termin na zgłoszenie wojny to minimum jeden dzień przed dniem gdy jest planowana wojna oraz do godziny 21 (zakładamy że nie zawsze ktos będzie siedział po nocach i dogadywał coś). Nie wolno również wypowiadać 2 wojen na raz jako główny agresor, czyli jeżeli już walczysz albo zgłosiłeś jedną wojnę następną zgłosisz po zakończeniu tej pierwszej. Aby zgłosić wojnę, musisz utworzyć zgłoszenie na naszym serwerze discord według poniższego formatu: 
+Termin na zgłoszenie wojny to minimum jeden dzień przed dniem gdy jest planowana wojna oraz do godziny 21 (zakładamy że nie zawsze ktos będzie siedział po nocach i dogadywał coś). Nie wolno również wypowiadać 2 wojen na raz jednego dnia jako główny agresor, czyli jeżeli już walczysz albo zgłosiłeś jedną wojnę następną zgłosisz po zakończeniu tej pierwszej. Aby zgłosić wojnę, musisz utworzyć zgłoszenie na naszym serwerze discord według poniższego formatu: 
 - Nick: 
 - Zaangażowane państwa: 
 - Sojusznicy: 
