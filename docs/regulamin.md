@@ -65,27 +65,25 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 ### Wojna:
 4.1. Zakazane jest używanie wiadra z lawą oraz pajęczyn podczas walki (stawiania ich pod przeciwnikiem podczas walki).
 
-4.2. Masowe zmienianie miast przez graczy na korzyść lub osłabienie danej strony gdy jest już umówiona wojna jest zakazane.
+4.2. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
 
-4.3. Graczom nie wolno niszczyć flag swoich sojuszników, w celu pomocy drużynie przeciwnika.
+4.3. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. w jakiś głębokich dziurach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
 
-4.4. Nie wolno umieszczać flagi w miejscu, do którego nie można łatwo dotrzeć z powodu otaczającego terenu (np. w jakiś głębokich dziurach). Możesz otoczyć flagę fortyfikacją, jednak całkowite zakrywanie flag jest zakazane.
+4.4. Zakaz podkradania się i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
 
-4.5. Zakaz podkradania się i niszczenia terytorium wroga "od tyłu" bez jego całkowitego zajęcia.
+4.5. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec postawieniu flagi w czasie wojny.
 
-4.6. Zakaz budowania czegoś, co ma na celu zablokowanie widoku nieba z poziomu gruntu, na przykład szklanych sufitów, aby zapobiec postawieniu flagi w czasie wojny.
+4.5.1. Zakazuje się również budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad ziemią sufity, budynki pnące się celowo do limitu wysokości budowania w grze itd.).
 
-4.6.1. Zakazuje się również budowy budowli które uniemożliwiają lub zbyt mocno utrudniają przejęcie prowincji (np. wcześniej wspomniane lewitujące gdzieś nad mapą sufity, budynki pnące się celowo do limitu wysokości budowania w grze itd.).
+4.6. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
 
-4.7. Opuszczanie lub usuwanie miasta jako lider lub porzucanie państwa w celu uniknięcia wojny jest zabronione.
+4.7. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
 
-4.8. Wszystkie kapitulacje wynikające z nadużycia błędów, bądź oszustw w grze będą unieważniane przez administrację. W takim przypadku strona pierwotnie zwycięska zostanie ukarana, a zniszczenia wywołane przez nią na przeciwniku zostaną cofnięte przez moderację serwera.
+4.8. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
 
-4.9. Zakazane jest atakowanie graczy z państw toczących wojnę jeżeli twoje państwo w niej nie uczestniczy.
+4.8.1 Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
 
-4.9.1 Zakazane jest przeszkadzanie graczom którzy prowadzą wojnę np. zasłaniając widok podczas strzelania z armat itd.
-
-4.10. Zakaz zalewania skrzynek wodą aby te były niemożliwe do zniszczenia przez wybuchy od np. dział altyleryjskich.
+4.9. Zakaz zalewania skrzynek wodą aby te były niemożliwe do zniszczenia przez wybuchy od np. dział altyleryjskich.
 
 ### Państwa i miasta:
 
@@ -95,11 +93,9 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.3. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
 
-5.4. Zakaz dodawania emoji do nazwy państwa/miasta.
+5.4 Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.5. Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
-
-5.5.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
+5.4.. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
 ### Regulacje dotyczące budynków/RP:
 
