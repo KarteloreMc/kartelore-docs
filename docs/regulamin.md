@@ -93,23 +93,17 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.3. Przekazywanie prowincji przez oficerów bez zgody lidera państwa lub bez powstania buntu jest zakazane.
 
-5.4 Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
-
-5.4.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
-
 ### Regulacje dotyczące budynków/RP:
 
-6.1. Budynki funkcjonalne muszą być starannie wykonane i pasować do stylu kraju oraz tematu serwera (obecnie okres drugiej wojny światowej).
+6.1. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na morzach i oceanach (neutralnych).
 
-6.2. Zakaz budowania tzw. "Sky Base" (bazy na wysokości) lub baz na morzach i oceanach (neutralnych).
+6.2. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy i pajęczyn.
 
-6.3. Żaden rów w formie obronnej fosy bazy nie może być głębszy/grubszy niż 7 bloków. Takowe rowy nie mogą zawierać lawy i pajęczyn.
+6.2.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
 
-6.3.1. Żadne mury lub inne fortyfikacje obronne nie mogą być wypełnione lawą, wodą lub obsydianem.
+6.3. Zakaz tworzenia pułapek zawierających pajęczyny/lawę.
 
-6.4. Zakaz tworzenia pułapek zawierających pajęczyny/lawę.
-
-6.4.1. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań(nia) wojennych(ne).
+6.3.1. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań(nia) wojennych(ne).
 
 ©️ 2024 KarteLore
 
