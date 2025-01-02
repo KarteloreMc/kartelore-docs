@@ -95,7 +95,7 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 5.4 Nazwy państw/miast muszą nawiązywać do terenów na których się znajdują (np. Królestwo Alpejskie, Republika Skandynawi) lub państw zgodnych z okresem w jakim jest dana edycja.
 
-5.4.. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
+5.4.1. Jeżeli zmieniasz (nazwę miasta/państwa) musi ono być na swoich historycznych terenach (jeżeli nazwa jest od terenu to na terenie od którego jest nazwa)(jeżeli zmienisz nazwę państwa/miasta a posiadasz swoje historyczne tereny bez problemu możesz posiadać inne).
 
 ### Regulacje dotyczące budynków/RP:
 
