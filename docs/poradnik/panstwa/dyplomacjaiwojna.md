@@ -141,7 +141,7 @@ Menu traktatów pokojowych nie akceptuje niestandardowych przedmiotów.
 :::
 
 :::caution Uwaga!
-Uwaga uwaga to nasz ostatni komunikat, dziś oddziały Ilaska wkroczyły do Ciechanowa, przesyłamy pozdrowienia wojownikom walczącym na zamku oraz wszystkim innym gdziekolwiek się znajdują, jeszcze Dziekanizm nie zginął, nież żyje Dziekan 
+Uwaga uwaga to nasz ostatni komunikat, dziś oddziały Ilaska wkroczyły do Ciechanowa, przesyłamy pozdrowienia wojownikom walczącym na zamku oraz wszystkim innym gdziekolwiek się jeszcze znajdują, jeszcze Dziekanizm nie zginął póki Dziekan żyje, nież żyje Dziekanizm!!!
 :::caution
 
 
