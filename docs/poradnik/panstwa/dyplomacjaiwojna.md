@@ -140,9 +140,9 @@ Są to wojny tylko w ograniczonym zakresie i jak sama nazwa wskazuje o tereny gr
 Menu traktatów pokojowych nie akceptuje niestandardowych przedmiotów.
 :::
 
-:::caustion Tego typu
+:::caution Uwaga!
 Uwaga uwaga to nasz ostatni komunikat, dziś oddziały Ilaska wkroczyły do Ciechanowa, przesyłamy pozdrowienia wojownikom walczącym na zamku oraz wszystkim innym gdziekolwiek się znajdują, jeszcze Dziekanizm nie zginął, nież żyje Dziekan 
-:::
+:::caution
 
 
 
