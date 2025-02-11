@@ -27,6 +27,8 @@ sidebar_position: 2
 
 1.11. Zakazuje się "griefingu" czyli psucia krajobrazu, niszczenia terenu na większą skalę albo robienia ekstremalnych zniszczeń terenu w obszarach niezajętych przez gracza.
 
+1.12. Zakaz Wyzywania Dziekanatu
+
 ### Wykorzystywanie błędów:
 
 2.1. Zakaz wykorzystywania błędów i niezamierzonych funkcji serwera.
