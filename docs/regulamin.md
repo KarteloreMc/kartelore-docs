@@ -107,5 +107,5 @@ Pierwsze zgłoszenia błędów, exploitów lub niezamierzonych funkcji jeżeli i
 
 6.3.1. Zakaz tworzenia powyżej wymienionych, zabroninych pułapek które ujawniają/uaktywniają się podczas/poprzez działań(nia) wojennych(ne).
 
-©️ 2024 KarteLore
+©️ 2025 KarteLore
 
